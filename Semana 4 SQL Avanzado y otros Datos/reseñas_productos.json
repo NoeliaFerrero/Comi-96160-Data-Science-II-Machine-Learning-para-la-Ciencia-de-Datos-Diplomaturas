@@ -1,0 +1,401 @@
+[
+  {
+    "id_producto": "PROD-ELE-101",
+    "nombre": "Auriculares Inalámbricos Noise Cancelling",
+    "categoria": "Electrónica",
+    "precio": 129.99,
+    "calificacion_promedio": 4.6,
+    "reseñas": [
+      {
+        "id_reseña": "REV-001",
+        "usuario": "Carlos M.",
+        "calificacion": 5,
+        "fecha": "2026-05-10",
+        "comentario": "Excelente calidad de sonido y la cancelación de ruido funciona impecable.",
+        "util": 14
+      },
+      {
+        "id_reseña": "REV-002",
+        "usuario": "Ana G.",
+        "calificacion": 4,
+        "fecha": "2026-06-02",
+        "comentario": "Muy cómodos para usar todo el día, aunque la batería dura algo menos de lo anunciado.",
+        "util": 5
+      },
+      {
+        "id_reseña": "REV-003",
+        "usuario": "Marcos P.",
+        "calificacion": 5,
+        "fecha": "2026-07-15",
+        "comentario": "Superaron mis expectativas. Los uso para trabajar y viajar.",
+        "util": 8
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ELE-102",
+    "nombre": "Smartwatch Deportivo Pro",
+    "categoria": "Electrónica",
+    "precio": 199.5,
+    "calificacion_promedio": 4.2,
+    "reseñas": [
+      {
+        "id_reseña": "REV-004",
+        "usuario": "Lucía R.",
+        "calificacion": 4,
+        "fecha": "2026-05-18",
+        "comentario": "Buen seguimiento de pulsaciones y GPS muy preciso.",
+        "util": 9
+      },
+      {
+        "id_reseña": "REV-005",
+        "usuario": "Diego S.",
+        "calificacion": 3,
+        "fecha": "2026-06-20",
+        "comentario": "La pantalla se ve bien al sol pero la aplicación sincroniza lento.",
+        "util": 2
+      },
+      {
+        "id_reseña": "REV-006",
+        "usuario": "Elena T.",
+        "calificacion": 5,
+        "fecha": "2026-07-01",
+        "comentario": "Increíble diseño y muy resistente al agua.",
+        "util": 6
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ELE-103",
+    "nombre": "Teclado Mecánico RGB",
+    "categoria": "Electrónica",
+    "precio": 85.0,
+    "calificacion_promedio": 4.8,
+    "reseñas": [
+      {
+        "id_reseña": "REV-007",
+        "usuario": "Javier L.",
+        "calificacion": 5,
+        "fecha": "2026-05-04",
+        "comentario": "Respuesta táctil suave y retroiluminación configurable genial.",
+        "util": 11
+      },
+      {
+        "id_reseña": "REV-008",
+        "usuario": "Sofía B.",
+        "calificacion": 5,
+        "fecha": "2026-06-11",
+        "comentario": "Construcción sólida de aluminio, vale cada centavo.",
+        "util": 4
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ELE-104",
+    "nombre": "Monitor Gamer 27 pulgadas 144Hz",
+    "categoria": "Electrónica",
+    "precio": 280.0,
+    "calificacion_promedio": 4.5,
+    "reseñas": [
+      {
+        "id_reseña": "REV-009",
+        "usuario": "Gonzalo F.",
+        "calificacion": 5,
+        "fecha": "2026-05-29",
+        "comentario": "Fluidez increíble en juegos competitivos. Colores muy vivos.",
+        "util": 15
+      },
+      {
+        "id_reseña": "REV-010",
+        "usuario": "Valeria K.",
+        "calificacion": 4,
+        "fecha": "2026-07-10",
+        "comentario": "Gran base ajustarle pero el cable HDMI incluido es corto.",
+        "util": 1
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ROP-101",
+    "nombre": "Chaqueta Térmica de Montaña",
+    "categoria": "Ropa",
+    "precio": 95.0,
+    "calificacion_promedio": 4.7,
+    "reseñas": [
+      {
+        "id_reseña": "REV-011",
+        "usuario": "Martín V.",
+        "calificacion": 5,
+        "fecha": "2026-05-14",
+        "comentario": "Muy abrigada y ligera. Ideal para caminatas en frío.",
+        "util": 7
+      },
+      {
+        "id_reseña": "REV-012",
+        "usuario": "Camila D.",
+        "calificacion": 4,
+        "fecha": "2026-06-25",
+        "comentario": "Corte preciso y cierres herméticos. Muy buena prenda.",
+        "util": 3
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ROP-102",
+    "nombre": "Zapatillas Running Cushioned",
+    "categoria": "Ropa",
+    "precio": 110.0,
+    "calificacion_promedio": 4.3,
+    "reseñas": [
+      {
+        "id_reseña": "REV-013",
+        "usuario": "Pablo E.",
+        "calificacion": 4,
+        "fecha": "2026-05-22",
+        "comentario": "Amortiguación excelente en asfalto.",
+        "util": 6
+      },
+      {
+        "id_reseña": "REV-014",
+        "usuario": "Natalia H.",
+        "calificacion": 3,
+        "fecha": "2026-06-14",
+        "comentario": "Un poco estrechas en la punta, recomiendo pedir medio número más.",
+        "util": 12
+      },
+      {
+        "id_reseña": "REV-015",
+        "usuario": "Rodrigo A.",
+        "calificacion": 5,
+        "fecha": "2026-07-08",
+        "comentario": "Llevo 100km corridos y se mantienen impecables.",
+        "util": 4
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-ROP-103",
+    "nombre": "Pantalón Denim Slim Fit",
+    "categoria": "Ropa",
+    "precio": 45.0,
+    "calificacion_promedio": 4.0,
+    "reseñas": [
+      {
+        "id_reseña": "REV-016",
+        "usuario": "Gabriel M.",
+        "calificacion": 4,
+        "fecha": "2026-05-08",
+        "comentario": "Buen calce y tela elástica cómoda.",
+        "util": 2
+      },
+      {
+        "id_reseña": "REV-017",
+        "usuario": "Daniela Q.",
+        "calificacion": 4,
+        "fecha": "2026-06-30",
+        "comentario": "El color es idéntico al de las fotos.",
+        "util": 1
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-HOG-101",
+    "nombre": "Cafetera Express de Goteo",
+    "categoria": "Hogar y Cocina",
+    "precio": 65.0,
+    "calificacion_promedio": 4.4,
+    "reseñas": [
+      {
+        "id_reseña": "REV-018",
+        "usuario": "Fernanda C.",
+        "calificacion": 5,
+        "fecha": "2026-05-03",
+        "comentario": "Prepara el café rapidísimo y lo mantiene caliente horas.",
+        "util": 10
+      },
+      {
+        "id_reseña": "REV-019",
+        "usuario": "Hugo S.",
+        "calificacion": 4,
+        "fecha": "2026-06-18",
+        "comentario": "Fácil de limpiar y programar.",
+        "util": 3
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-HOG-102",
+    "nombre": "Robot Aspirador Inteligente",
+    "categoria": "Hogar y Cocina",
+    "precio": 220.0,
+    "calificacion_promedio": 4.1,
+    "reseñas": [
+      {
+        "id_reseña": "REV-020",
+        "usuario": "Patricia N.",
+        "calificacion": 4,
+        "fecha": "2026-05-25",
+        "comentario": "Limpia muy bien pelos de mascota. El mapeo por app es exacto.",
+        "util": 18
+      },
+      {
+        "id_reseña": "REV-021",
+        "usuario": "Esteban R.",
+        "calificacion": 3,
+        "fecha": "2026-07-04",
+        "comentario": "A veces se traba con cables gruesos en el suelo.",
+        "util": 5
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-HOG-103",
+    "nombre": "Freidora de Aire 5L",
+    "categoria": "Hogar y Cocina",
+    "precio": 115.0,
+    "calificacion_promedio": 4.9,
+    "reseñas": [
+      {
+        "id_reseña": "REV-022",
+        "usuario": "Carmen O.",
+        "calificacion": 5,
+        "fecha": "2026-05-12",
+        "comentario": "Cambió mi forma de cocinar. Papas crujientes sin una gota de aceite.",
+        "util": 22
+      },
+      {
+        "id_reseña": "REV-023",
+        "usuario": "Tomás I.",
+        "calificacion": 5,
+        "fecha": "2026-06-09",
+        "comentario": "Capacidad justa para una familia de 4 personas.",
+        "util": 8
+      },
+      {
+        "id_reseña": "REV-024",
+        "usuario": "Mariana Z.",
+        "calificacion": 5,
+        "fecha": "2026-07-20",
+        "comentario": "Excelente relación calidad precio.",
+        "util": 7
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-DEP-101",
+    "nombre": "Mat de Yoga Antideslizante 6mm",
+    "categoria": "Deportes",
+    "precio": 32.0,
+    "calificacion_promedio": 4.6,
+    "reseñas": [
+      {
+        "id_reseña": "REV-025",
+        "usuario": "Lorena F.",
+        "calificacion": 5,
+        "fecha": "2026-05-19",
+        "comentario": "No se resbala nada aun sudando. Grosor óptimo para rodillas.",
+        "util": 9
+      },
+      {
+        "id_reseña": "REV-026",
+        "usuario": "Adrián L.",
+        "calificacion": 4,
+        "fecha": "2026-06-27",
+        "comentario": "Incluye correa de transporte muy práctica.",
+        "util": 2
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-DEP-102",
+    "nombre": "Set de Mancuernas Ajustables 20kg",
+    "categoria": "Deportes",
+    "precio": 140.0,
+    "calificacion_promedio": 4.5,
+    "reseñas": [
+      {
+        "id_reseña": "REV-027",
+        "usuario": "Federico W.",
+        "calificacion": 5,
+        "fecha": "2026-05-31",
+        "comentario": "Mecanismo de cambio de peso rápido y seguro.",
+        "util": 13
+      },
+      {
+        "id_reseña": "REV-028",
+        "usuario": "Joaquín C.",
+        "calificacion": 4,
+        "fecha": "2026-07-12",
+        "comentario": "Ahorran muchísimo espacio en el gimnasio en casa.",
+        "util": 6
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-LIB-101",
+    "nombre": "Libro: Hábitos Atómicos",
+    "categoria": "Libros",
+    "precio": 22.0,
+    "calificacion_promedio": 5.0,
+    "reseñas": [
+      {
+        "id_reseña": "REV-029",
+        "usuario": "Isabel Y.",
+        "calificacion": 5,
+        "fecha": "2026-05-15",
+        "comentario": "Lectura obligatoria para mejorar la productividad diaria.",
+        "util": 30
+      },
+      {
+        "id_reseña": "REV-030",
+        "usuario": "Bautista G.",
+        "calificacion": 5,
+        "fecha": "2026-06-05",
+        "comentario": "Explicaciones claras y ejercicios prácticos aplicables.",
+        "util": 11
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-BEL-101",
+    "nombre": "Sérum Facial Ácido Hialurónico",
+    "categoria": "Belleza",
+    "precio": 28.5,
+    "calificacion_promedio": 4.7,
+    "reseñas": [
+      {
+        "id_reseña": "REV-031",
+        "usuario": "Verónica P.",
+        "calificacion": 5,
+        "fecha": "2026-05-21",
+        "comentario": "Deja la piel ultra hidratada sin sensación grasosa.",
+        "util": 16
+      },
+      {
+        "id_reseña": "REV-032",
+        "usuario": "Camila S.",
+        "calificacion": 4,
+        "fecha": "2026-07-03",
+        "comentario": "Absorción rápida y textura ligera.",
+        "util": 4
+      }
+    ]
+  },
+  {
+    "id_producto": "PROD-BEL-102",
+    "nombre": "Crema Hidratante Corporal 500ml",
+    "categoria": "Belleza",
+    "precio": 19.9,
+    "calificacion_promedio": 4.3,
+    "reseñas": [
+      {
+        "id_reseña": "REV-033",
+        "usuario": "Agustina M.",
+        "calificacion": 4,
+        "fecha": "2026-06-16",
+        "comentario": "Aroma suave y perdurable. Gran cantidad por el precio.",
+        "util": 5
+      }
+    ]
+  }
+]
