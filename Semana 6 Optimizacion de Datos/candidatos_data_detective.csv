@@ -1,0 +1,809 @@
+﻿id_candidato,edad,experiencia_anios,salario_esperado,ciudad,seniority,educacion,fecha_postulacion,score_tecnico,remoto,fuente
+C0001,31,2,1160000.0,Buenos Aires,Semi Senior,Universitaria,2026-04-25,43,Sí,Universidad
+C0002,37,6,1540000.0,Salta,Senior,Bootcamp,2026-05-06,68,Sí,Referido
+C0003,37,11,2360000.0,Rosario,Lead,Bootcamp,2026-08-14,95,Sí,LinkedIn
+C0004,33,9,2160000.0,Buenos Aires,Lead,Universitaria,2026-01-28,77,Sí,LinkedIn
+C0005,33,10,2060000.0,Córdoba,Lead,Universitaria,2026-05-11,60,Sí,Universidad
+C0006,22,3,1360000.0,Córdoba,semi senior,Universitaria,2026-03-16,72,Sí,LinkedIn
+C0007,36,1,970000.0,Córdoba,Junior,Autodidacta,2026-06-15,72,Sí,Universidad
+C0008,27,4,1130000.0,MENDOZA,Semi Senior,Universitaria,2026-07-08,79,No,LinkedIn
+C0009,31,5,1340000.0,Buenos Aires,Senior,Autodidacta,2026-03-19,53,Sí,LinkedIn
+C0010,34,8,2420000.0,Rosario,Lead,Bootcamp,2026-06-28,80,Sí,Referido
+C0011,28,0,790000.0,Córdoba,Junior,Terciaria,31-03-2026,35,Sí,Bootcamp
+C0012,39,9,2370000.0,Salta,Lead,Universitaria,2026-06-25,63,Sí,Bootcamp
+C0013,34,4,960000.0,Mendoza,Semi Senior,Universitaria,2026-01-21,65,No,LinkedIn
+C0014,28,3,1310000.0,Córdoba,semisenior,Universitaria,2026-02-23,81,Sí,Referido
+C0015,27,1,750000.0,Córdoba,Junior,Universitaria,2026-07-03,72,No,LinkedIn
+C0016,28,0,910000.0,Córdoba,Junior,Terciaria,2026-04-13,,Sí,Referido
+C0017,33,7,1650000.0,cordoba,Senior,Autodidacta,2026-08-10,58,Sí,Referido
+C0018,38,5,1490000.0,Buenos Aires ,Senior,Terciaria,28-02-2026,75,No,Bootcamp
+C0019,29,0,820000.0,Buenos Aires,,Bootcamp,2026-03-13,71,Sí,Bootcamp
+C0020,30,0,910000.0,Córdoba, Junior ,Universitaria,2026-06-28,64,Sí,Referido
+C0021,33,3,1210000.0,Buenos Aires,Semi Senior,Universitaria,2026-01-20,65,Sí,Referido
+C0022,42,10,2330000.0,Córdoba,Lead,Universitaria,2026-04-22,82,No,Universidad
+C0023,32,4,1440000.0,Córdoba,Semi Senior,Terciaria,2026-08-12,65,Sí,Universidad
+C0024,22,0,720000.0,Buenos Aires,Junior,Autodidacta,2026-08-02,71,No,LinkedIn
+C0025,33,4,1390000.0,,Semi Senior,Terciaria,2026-02-28,100,Sí,LinkedIn
+C0026,28,4,1210000,Rosario,Semi Senior,Universitaria,2026-03-12,52,No,Referido
+C0027,25,0,770000.0,Córdoba,Junior,Universitaria,2026-05-17,46,Sí,LinkedIn
+C0028,33,4,1040000.0,Buenos Aires,Semi Senior,Terciaria,2026-04-19,83,No,LinkedIn
+C0029,36,4,1180000.0,Buenos Aires,Semi Senior,Universitaria,2026-05-09,62,Sí,LinkedIn
+C0030,34,7,1800000.0,Córdoba,Senior,Bootcamp,2026-06-06,68,No,Portal empleo
+C0031,38,10,2170000.0,Buenos Aires,Lead,Bootcamp,2026-07-10,61,Sí,LinkedIn
+C0032,42,8,2530000.0,Córdoba,Lead,Terciaria,2026-07-19,68,Sí,LinkedIn
+C0033,32,99,1030000.0,Córdoba,Semi Senior,Universitaria,2026-02-25,94,Sí,LinkedIn
+C0034,38,1,850000.0,Salta,Junior,Universitaria,2026-07-15,83,Sí,Universidad
+C0035,42,13,1920000.0,Salta,Lead,Universitaria,2026-02-04,84,Sí,Universidad
+C0036,25,5,1710000.0,Mendoza,Senior,Universitaria,2026-05-03,52,No,Referido
+C0037,35,5,1800000.0,Córdoba,Senior,Universitaria,2026-05-11,56,No,Referido
+C0038,33,4,1150000.0,Córdoba,Semi Senior,Terciaria,2026-04-14,35,Sí,Bootcamp
+C0039,37,5,$1.220.000,Rosario,Senior,Terciaria,2026-01-07,61,No,LinkedIn
+C0040,34,4,1220000.0,Buenos Aires,Semi Senior,Universitaria,2026-01-27,85,Sí,LinkedIn
+C0041,29,3,1250000.0,Córdoba,Semi Senior,Universitaria,2026-01-01,79,Sí,LinkedIn
+C0042,25,3,1250000.0,Buenos Aires,Semi Senior,Universitaria,2026-08-07,69,No,LinkedIn
+C0043,30,4,1350000,Córdoba,Semi Senior,Universitaria,2026-07-27,72,Sí,Referido
+C0044,27,3,1070000.0,Mendoza,Semi Senior,Bootcamp,18/07/2026,62,No,Bootcamp
+C0045,27,2,1280000.0,Córdoba,Semi Senior,Universitaria,2026-06-21,75,Sí,Portal empleo
+C0046,34,5,1850000.0,Rosario,Senior,Universitaria,2026-03-28,83,Sí,Referido
+C0047,38,4,990000.0,Córdoba,Semi Senior,Universitaria,2026-02-10,49,Sí,Bootcamp
+C0048,38,9,2270000.0,Buenos Aires,Lead,Bootcamp,2026-05-03,76,Sí,LinkedIn
+C0049,22,0,810000.0,Buenos Aires,Junior,Terciaria,2026-03-16,85,Sí,LinkedIn
+C0050,37,8,2180000.0,Córdoba,Lead,Universitaria,2026-02-11,66,No,Portal empleo
+C0051,40,8,2280000.0,SALTA,Lead,Terciaria,2026-04-27,82,No,Portal empleo
+C0052,25,0,810000.0,Rosario,Junior,Bootcamp,2026-06-10,100,No,LinkedIn
+C0053,29,3,$1.120.000,Salta,Semi Senior,Autodidacta,2026-06-27,71,Sí,Referido
+C0054,30,,1200000.0,Mendoza,Semi Senior,Universitaria,2026-03-04,78,Sí,Portal empleo
+C0055,24,0,760000.0,Buenos Aires,Junior,Bootcamp,2026-06-14,62,Sí,Portal empleo
+C0056,32,2,1070000.0,Salta,Semi Senior,Autodidacta,2026-07-06,75,Sí,Portal empleo
+C0057,28,1,910000.0,Córdoba,Junior,Autodidacta,2026-05-07,78,Sí,LinkedIn
+C0058,39,10,1950000.0,Córdoba,Lead,Terciaria,2026-07-28,75,No,LinkedIn
+C0059,30,7,1760000.0,Córdoba,Senior,Terciaria,2026-08-15,58,Sí,Referido
+C0060,34,9,2300000.0,Córdoba,Lead,Universitaria,2026-06-25,75,Sí,LinkedIn
+C0061,37,7,1370000.0,Buenos Aires,Senior,Bootcamp,2026-05-13,92,Sí,Bootcamp
+C0062,27,1,790000.0,Córdoba, Junior ,Terciaria,17/02/2026,78,Sí,Referido
+C0063,37,3,1340000.0,,Semi Senior,Terciaria,2026-08-12,,Sí,LinkedIn
+C0064,31,6,$1.490.000,Buenos Aires,senior,Universitaria,2026-01-03,69,No,Universidad
+C0065,29,1,810000.0, Córdoba ,Junior,Bootcamp,2026-04-26,82,Sí,Referido
+C0066,38,7,1730000.0,Buenos Aires,Senior,Bootcamp,2026-06-24,76,No,LinkedIn
+C0067,25,4,1290000.0,Córdoba,Semi Senior,Universitaria,2026-07-09,59,Sí,Universidad
+C0068,,3,1170000.0,Mendoza,Semi Senior,Bootcamp,2026-04-09,76,Sí,Universidad
+C0069,28,7,1550000.0,Córdoba,Senior,Terciaria,2026-04-26,58,Sí,Portal empleo
+C0070,,6,$ 1.880.000,Salta,Senior,Bootcamp,,63,No,LinkedIn
+C0071,28,3,$1.410.000,Rosario,Semi Senior,Universitaria,2026-07-10,75,No,Portal empleo
+C0072,45,8,2420000.0,,Lead,Universitaria,2026-04-22,76,Sí,Universidad
+C0073,26,1,860000.0,Córdoba,Junior,Autodidacta,2026-03-02,55,Sí,LinkedIn
+C0074,34,6,1.520.000,Mendoza,Senior,Universitaria,2026-06-08,87,Sí,LinkedIn
+C0075,,6,1510000.0,Rosario,Senior,Bootcamp,2026-04-05,80,Sí,Universidad
+C0076,39,4,1260000.0,Rosario,Semi Senior,Terciaria,2026-01-17,,No,LinkedIn
+C0077,41,6,,Rosario,Senior,Terciaria,2026-05-04,50,Sí,Universidad
+C0078,32,0,970000.0,Córdoba,Junior,Universitaria,2026-01-24,70,Sí,Referido
+C0079,38,7,1760000.0,Buenos Aires ,Senior,Terciaria,2026-04-26,66,Sí,Referido
+C0080,33,4,1020000.0,Córdoba,Semi Senior,Universitaria,2026-05-31,74,Sí,LinkedIn
+C0081,33,3,1330000.0,Mendoza,Semi Senior,Universitaria,2026-03-23,67,Sí,Universidad
+C0082,33,8,1980000.0,Buenos Aires,LEAD,Universitaria,2026-02-19,44,Sí,Referido
+C0083,26,2,1150000.0,Córdoba,Semi Senior,Universitaria,25/07/2026,67,No,Portal empleo
+C0084,27,0,870000.0,Córdoba,Junior,Autodidacta,2026-03-20,68,No,Portal empleo
+C0085,26,0,1020000.0,Córdoba,Junior,Autodidacta,2026-03-20,81,Sí,Portal empleo
+C0086,31,6,2160000.0,Córdoba,Senior,Universitaria,2026-03-11,62,No,Bootcamp
+C0087,30,0,900000.0,Rosario, Junior ,Bootcamp,2026-01-27,96,Sí,Portal empleo
+C0088,41,10,2160000.0,Buenos Aires,Lead,Universitaria,2026-01-15,45,Sí,Referido
+C0089,27,0,900000.0,Mendoza,JR,Terciaria,2026-02-19,90,Sí,Bootcamp
+C0090,43,10,2400000.0,Buenos Aires,Lead,Bootcamp,2026-02-05,69,Sí,Portal empleo
+C0091,27,5,1600000.0,Córdoba,Senior,Autodidacta,2026-01-08,84,Sí,LinkedIn
+C0092,30,4,1420000.0,Rosario,Semi Senior,Universitaria,2026-03-20,73,Sí,LinkedIn
+C0093,27,3,1230000.0,Rosario,semisenior,Bootcamp,2026-05-11,88,Sí,Universidad
+C0094,26,6,1730000.0,Buenos Aires,Senior,Universitaria,09-07-2026,67,No,Referido
+C0095,31,4,1280000.0,Rosario,Semi Senior,Autodidacta,,57,Sí,Portal empleo
+C0096,35,8,2290000.0,Buenos Aires,Lead,Universitaria,2026-07-24,92,Sí,Referido
+C0097,38,5,1790000.0,Buenos Aires,Senior,Terciaria,2026-04-15,70,Sí,LinkedIn
+C0098,35,5,$1.550.000,Buenos Aires,Sr,Terciaria,2026-04-08,75,Sí,Portal empleo
+C0099,26,3,1.130.000,Córdoba,Semi Senior,Bootcamp,2026-08-04,89,Sí,LinkedIn
+C0100,38,4,1070000.0,Córdoba,,Universitaria,2026-04-06,58,No,Referido
+C0101,37,5,,Córdoba,Sr,Autodidacta,2026-07-08,,Sí,Portal empleo
+C0102,29,0,920000.0,Buenos Aires,Junior,Universitaria,2026-06-09,64,Sí,Referido
+C0103,,0,890000.0,Córdoba,Junior,Terciaria,2026-08-10,70,Sí,Portal empleo
+C0104,30,7,1930000.0,Buenos Aires,Senior,Universitaria,2026-04-26,73,Sí,Universidad
+C0105,31,5,1650000.0,Mendoza,Senior,Universitaria,2026-01-13,51,Sí,Universidad
+C0106,35,4,1280000,Córdoba,Semi Senior,Terciaria,2026-01-01,61,Sí,LinkedIn
+C0107,40,5,1470000.0,Buenos Aires,Senior,Universitaria,2026-02-03,91,Sí,LinkedIn
+C0108,39,6,1590000.0,Rosario,Senior,Universitaria,2026-07-09,84,Sí,Portal empleo
+C0109,28,3,1280000.0,cba,Semi Senior,Universitaria,2026-03-20,71,Sí,Bootcamp
+C0110,25,2,1300000.0,Córdoba,Semi-Senior,Universitaria,2026-03-19,75,No,Universidad
+C0111,33,5,1600000.0,Córdoba,Senior,Bootcamp,2026-05-01,68,Sí,Universidad
+C0112,21,1,840000.0,Córdoba,Junior,Bootcamp,2026-04-03,91,No,LinkedIn
+C0113,150,6,1400000.0,SALTA,Senior,Universitaria,2026-04-08,69,No,Referido
+C0114,26,0,820000.0,Mendoza,Junior,Universitaria,2026-03-23,75,Sí,Referido
+C0115,33,8,2400000.0,Buenos Aires,lead,Universitaria,2026-07-18,88,Sí,LinkedIn
+C0116,27,6,1740000.0,Mendoza,Senior,Universitaria,2026-08-09,61,Sí,LinkedIn
+C0117,34,5,1.730.000,MENDOZA,Senior,Terciaria,2026-06-08,94,No,Bootcamp
+C0118,33,8,2210000.0,Córdoba,Lead,Terciaria,2026-07-11,51,Sí,LinkedIn
+C0119,32,10,2200000.0,Mendoza,Lead,Universitaria,2026-06-02,95,No,LinkedIn
+C0120,24,8,2050000.0,Buenos Aires,Lead,Universitaria,2026-02-07,67,No,LinkedIn
+C0121,27,0,910000.0,Mendoza,Junior,Universitaria,2026-01-14,69,No,Bootcamp
+C0122,34,0,890000.0,Mendoza,Junior,Bootcamp,2026-05-16,46,Sí,Portal empleo
+C0123,37,3,1260000.0,Córdoba,Semi Senior,Autodidacta,2026-04-01,66,Sí,Portal empleo
+C0124,30,5,1560000.0,Córdoba,Senior,Universitaria,2026-02-23,57,No,Bootcamp
+C0125,31,6,1290000.0,Córdoba,Senior,Universitaria,2026-05-10,63,Sí,LinkedIn
+C0126,31,2,1330000.0,BUENOS AIRES,Semi Senior,Bootcamp,2026-07-28,70,Sí,Portal empleo
+C0127,28,5,,Mendoza,Senior,Autodidacta,2026-04-11,85,No,LinkedIn
+C0128,30,2,1100000.0,Mendoza,Semi Senior,Universitaria,2026-07-25,75,Sí,LinkedIn
+C0129,33,3,1280000.0,cordoba,Semi Senior,Universitaria,2026-03-30,76,No,Universidad
+C0130,32,,820000.0,Buenos Aires, Junior ,Universitaria,2026-02-25,57,Sí,Universidad
+C0131,29,2,1330000.0,Buenos Aires,Semi Senior,Terciaria,,60,Sí,Referido
+C0132,26,0,900000,cba,Junior,Universitaria,2026-04-03,97,No,Referido
+C0133,24,1,910000,Córdoba,Junior,Universitaria,2026-03-25,62,Sí,Portal empleo
+C0134,32,8,1900000.0,Córdoba,,Terciaria,2026-03-26,95,Sí,LinkedIn
+C0135,27,1,950000.0,Salta,Junior,Universitaria,2026-07-08,69,Sí,LinkedIn
+C0136,41,13,2260000.0,Córdoba,Lead,Bootcamp,2026-01-22,72,Sí,LinkedIn
+C0137,37,6,1590000.0,Buenos Aires,Senior,Universitaria,2026-02-04,87,Sí,LinkedIn
+C0138,29,5,1670000.0,Rosario,Senior,Universitaria,2026-01-16,90,Sí,Universidad
+C0139,35,2,990000.0,Buenos Aires,Semi Senior,Terciaria,2026-02-19,70,Sí,LinkedIn
+C0140,33,7,1720000.0,Salta,Senior,Universitaria,2026-05-02,67,Sí,LinkedIn
+C0141,30,3,1080000.0,Salta,Semi Senior,Autodidacta,2026-05-08,,No,Referido
+C0142,29,5,1430000.0,Córdoba,Senior,Terciaria,2026-04-23,77,No,Universidad
+C0143,30,13,1870000.0,Buenos Aires,Lead,Universitaria,20/06/2026,84,Sí,LinkedIn
+C0144,35,4,1330000.0,Córdoba,SSr,Bootcamp,2026-01-17,72,Sí,LinkedIn
+C0145,38,8,2060000.0,Córdoba,Lead,Universitaria,21-03-2026,999,Sí,Referido
+C0146,28,2,1380000.0,Córdoba,Semi Senior,Autodidacta,2026-07-05,95,Sí,Portal empleo
+C0147,31,4,,Buenos Aires,Semi Senior,Universitaria,2026-05-10,77,No,Portal empleo
+C0148,39,10,1820000.0,Buenos Aires,Lead,Terciaria,2026-05-12,76,No,Universidad
+C0149,23,2,1070000.0,Córdoba,semi senior,Universitaria,2026-03-26,51,Sí,Bootcamp
+C0150,35,10,2470000.0,Córdoba,Lead,Universitaria,2026-06-16,35,Sí,Universidad
+C0151,37,7,$1.620.000,Mendoza,Senior,Bootcamp,2026-08-14,77,Sí,Portal empleo
+C0152,25,3,1130000.0,Córdoba,Semi Senior,Bootcamp,2026-04-04,71,Sí,Referido
+C0153,35,7,$1.680.000,Córdoba,Senior,Universitaria,2026-05-14,65,Sí,LinkedIn
+C0154,30,8,2310000.0,Buenos Aires,Lead,Universitaria,2026-03-22,75,No,Bootcamp
+C0155,35,6,1830000.0,Salta,Senior,Bootcamp,2026-08-05,71,No,Referido
+C0156,27,,970000.0,Córdoba,Junior,Autodidacta,2026-03-10,88,Sí,LinkedIn
+C0157,23,2,1160000.0,Rosario,Semi Senior,Universitaria,2026-03-10,73,Sí,Portal empleo
+C0158,36,4,1040000.0,Rosario,Semi Senior,Universitaria,2026-05-28,62,No,LinkedIn
+C0159,,4,1150000.0,Córdoba,Semi Senior,Universitaria,2026-07-11,86,Sí,Portal empleo
+C0160,30,6,1690000.0,Rosario,Senior,Bootcamp,2026-01-16,,Sí,Portal empleo
+C0161,33,5,1490000.0,Buenos Aires,Senior,Universitaria,2026-02-20,79,Sí,Referido
+C0162,32,0,770000.0,Buenos Aires,Junior,Universitaria,2026-04-15,65,No,Universidad
+C0163,29,6,1710000.0,Buenos Aires,Senior,Bootcamp,2026-06-14,63,Sí,LinkedIn
+C0164,33,6,1640000.0,Buenos Aires,Senior,Universitaria,2026-07-20,73,Sí,Referido
+C0165,35,6,1660000.0,Córdoba,Senior,Terciaria,2026-07-16,72,No,Portal empleo
+C0166,38,8,2030000.0,Mendoza,Lead,Universitaria,2026-06-19,79,No,Portal empleo
+C0167,35,7,1.610.000,Córdoba,Senior,Universitaria,2026-07-04,68,No,Universidad
+C0168,32,6,1500000.0,Córdoba,Senior,Universitaria,2026-03-07,46,Sí,Referido
+C0169,28,4,1310000.0,Córdoba,Semi Senior,Terciaria,2026-01-09,66,Sí,Portal empleo
+C0170,27,0,940000.0,Buenos Aires,Junior,Universitaria,2026-04-17,83,No,LinkedIn
+C0171,29,6,1.350.000,Rosario,Senior,Terciaria,2026-04-10,68,No,Bootcamp
+C0172,20,5,1500000.0,Córdoba,Senior,Bootcamp,2026-03-27,69,Sí,Referido
+C0173,34,5,1400000.0,Buenos Aires,Senior,Bootcamp,2026-03-05,86,Sí,Portal empleo
+C0174,31,0,790000.0,Córdoba,Junior,Universitaria,2026-08-02,62,No,LinkedIn
+C0175,20,1,840000.0,Rosario,Junior,Universitaria,2026-01-22,50,No,LinkedIn
+C0176,31,8,$1.880.000,Córdoba,Lead,Universitaria,2026-06-11,70,Sí,Referido
+C0177,33,4,,Rosario,Semi Senior,Universitaria,2026-07-02,65,Sí,Universidad
+C0178,42,7,1480000.0,Buenos Aires,Senior,Universitaria,2026-06-06,58,Sí,Referido
+C0179,32,5,1680000.0,Salta,Senior,Terciaria,2026-06-15,70,Sí,Bootcamp
+C0180,29,5,1660000.0,Córdoba,Senior,Universitaria,2026-04-20,79,Sí,Referido
+C0181,34,8,2040000.0,Buenos Aires,Lead,Universitaria,2026-04-07,72,Sí,Referido
+C0182,35,3,1220000.0,Córdoba,Semi Senior,Universitaria,2026-01-18,76,Sí,LinkedIn
+C0183,29,5,1560000.0,Salta,Senior,Bootcamp,12/03/2026,97,Sí,Universidad
+C0184,27,3,1170000.0,Mendoza,Semi Senior,Universitaria,2026-07-12,67,Sí,LinkedIn
+C0185,28,3,1400000.0,Córdoba,Semi Senior,Terciaria,2026-05-07,76,No,Universidad
+C0186,27,4,1360000.0,Rosario,Semi Senior,Universitaria,2026-04-07,65,Sí,Bootcamp
+C0187,32,5,1440000.0,Mendoza,Senior,Bootcamp,2026-01-01,60,Sí,Bootcamp
+C0188,36,3,1300000.0,Buenos Aires,Semi Senior,Bootcamp,2026-08-04,64,No,Referido
+C0189,37,9,$2.380.000,Buenos Aires,Lead,Universitaria,,65,Sí,Portal empleo
+C0190,28,2,1060000.0,Córdoba,Semi Senior,Universitaria,2026-01-04,77,No,Universidad
+C0191,30,4,1300000.0,Córdoba,Semi Senior,Universitaria,2026-05-05,100,No,LinkedIn
+C0192,24,3,,Mendoza,Semi Senior,Universitaria,2026-03-23,62,Sí,Portal empleo
+C0193,40,9,1950000.0,Mendoza,Lead,Terciaria,2026-01-27,66,No,LinkedIn
+C0194,32,5,1500000.0,Buenos Aires,Senior,Bootcamp,2026-06-20,71,Sí,Referido
+C0195,34,8,2420000.0,Córdoba,Lead,Terciaria,2026-02-28,150,Sí,LinkedIn
+C0196,40,0,870000.0,Buenos Aires,Junior,Bootcamp,2026-02-01,76,Sí,LinkedIn
+C0197,33,5,1740000.0,Rosario,Senior,Universitaria,2026-06-10,90,Sí,Referido
+C0198,31,7,1710000.0,Mendoza,Senior,Universitaria,2026-01-28,38,No,Referido
+C0199,30,5,1710000.0,Mendoza,Senior,Bootcamp,2026-04-16,39,Sí,Portal empleo
+C0200,40,8,1910000.0,Rosario,Lead,Universitaria,2026-04-15,65,Sí,LinkedIn
+C0201,30,3,$ 1.330.000,Rosario,Semi Senior,Terciaria,2026-07-02,87,Sí,Referido
+C0202,30,9,2460000.0,Córdoba,Lead,Universitaria,2026/07/07,50,Sí,LinkedIn
+C0203,43,12,2150000.0,Córdoba,Lead,Universitaria,2026-03-11,35,Sí,Portal empleo
+C0204,27,3,1190000.0,Mendoza,Semi Senior,Autodidacta,2026-03-03,80,Sí,Portal empleo
+C0205,37,3,1020000.0,Buenos Aires,Semi Senior,Universitaria,2026-07-27,75,No,Portal empleo
+C0206,40,9,2310000.0,Córdoba,Lead,Autodidacta,2026-02-03,57,Sí,Portal empleo
+C0207,35,10,2330000.0,Córdoba,Lead,Autodidacta,2026-03-28,58,No,LinkedIn
+C0208,35,3,1190000.0,Rosario,Semi Senior,Bootcamp,2026-04-24,58,Sí,Universidad
+C0209,30,3,1330000.0, Córdoba ,Semi Senior,Terciaria,2026-04-16,74,No,Referido
+C0210,34,4,1160000.0,Córdoba,Semi Senior,Terciaria,2026-08-04,63,No,Referido
+C0211,29,0,900000.0,Buenos Aires,Junior,Bootcamp,2026-02-25,79,Sí,Portal empleo
+C0212,26,2,1080000.0,ROSARIO,Semi Senior,Universitaria,2026-04-23,35,Sí,LinkedIn
+C0213,25,1,850000.0,Rosario,Junior,Universitaria,2026-01-13,,No,Portal empleo
+C0214,33,2,1180000.0,Córdoba,Semi Senior,Terciaria,2026-07-03,56,Sí,Portal empleo
+C0215,30,4,1230000.0,Rosario,Semi Senior,Universitaria,2026-01-18,68,No,LinkedIn
+C0216,30,5,1590000.0,Córdoba,Senior,Universitaria,2026-07-01,64,Sí,LinkedIn
+C0217,32,9,$2.170.000,Córdoba,Lead,Universitaria,24-07-2026,83,Sí,LinkedIn
+C0218,30,1,920000.0,Rosario,JR,Terciaria,2026-04-23,46,Sí,Bootcamp
+C0219,43,8,2100000.0,Rosario,LEAD,Bootcamp,2026-06-20,73,No,Portal empleo
+C0220,27,4,1010000.0,Mendoza,Semi Senior,Universitaria,2026-02-08,80,Sí,LinkedIn
+C0221,31,4,1410000.0,Rosario,Semi Senior,Autodidacta,2026-07-08,98,No,Referido
+C0222,40,7,1880000.0,Buenos Aires,Senior,Bootcamp,2026-06-19,65,No,Portal empleo
+C0223,28,1,740000.0,Córdoba,Junior,Bootcamp,2026-07-28,77,Sí,Universidad
+C0224,35,6,1760000.0,Buenos Aires ,Senior,Terciaria,2026-03-20,47,Sí,LinkedIn
+C0225,28,5,1570000.0,cordoba,Senior,Bootcamp,2026-05-26,39,No,LinkedIn
+C0226,35,6,1690000.0,Córdoba,Senior,Universitaria,2026-05-31,84,Sí,Universidad
+C0227,31,5,1700000.0,Salta,Senior,Bootcamp,2026-07-01,72,No,LinkedIn
+C0228,43,12,2150000.0,Buenos Aires,Líder,Universitaria,2026-01-30,88,Sí,LinkedIn
+C0229,34,2,1110000.0,Mendoza,Semi Senior,Bootcamp,2026-04-08,53,Sí,Bootcamp
+C0230,40,3,1120000.0,Buenos Aires,semi senior,Autodidacta,2026-02-27,79,No,Portal empleo
+C0231,32,3,,Mendoza,Semi Senior,Universitaria,2026-07-15,98,Sí,LinkedIn
+C0232,31,3,1100000.0,Buenos Aires,Semi Senior,Universitaria,2026-03-08,78,Sí,LinkedIn
+C0233,30,2,1190000.0,Buenos Aires,Semi Senior,Bootcamp,2026-03-12,76,Sí,LinkedIn
+C0234,34,8,2040000.0,Buenos Aires,Lead,Universitaria,2026-05-26,72,Sí,LinkedIn
+C0235,37,9,2350000.0,Córdoba,Lead,Bootcamp,2026-04-16,50,Sí,Universidad
+C0236,29,3,1380000.0,Rosario,Semi Senior,Universitaria,2026-01-07,91,No,Referido
+C0237,30,2,1130000.0,Córdoba,Semi Senior,Universitaria,2026-02-09,63,Sí,Portal empleo
+C0238,38,6,1.690.000,Córdoba,Senior,Autodidacta,11/03/2026,79,Sí,Bootcamp
+C0239,26,3,1260000.0,Rosario,semisenior,Terciaria,,50,Sí,Referido
+C0240,39,7,1730000.0,CORDOBA,Senior,Bootcamp,2026-07-12,55,Sí,LinkedIn
+C0241,37,5,1660000.0,Salta,Senior,Universitaria,2026-03-09,92,Sí,Referido
+C0242,27,0,910000.0,,Junior,Terciaria,2026-02-18,67,No,Bootcamp
+C0243,28,9,$ 2.310.000,Salta,Lead,Terciaria,2026-02-21,,No,Universidad
+C0244,35,10,1.930.000,Buenos Aires,Lead,Terciaria,2026-04-24,71,Sí,LinkedIn
+C0245,35,3,1300000.0,cordoba,Semi Senior,Bootcamp,2026-04-17,46,Sí,Portal empleo
+C0246,30,3,1310000.0,Salta,Semi Senior,Terciaria,2026-01-29,84,Sí,Portal empleo
+C0247,28,5,,Buenos Aires,Senior,Universitaria,2026-05-29,64,Sí,Bootcamp
+C0248,31,6,1660000.0,Salta,Senior,Universitaria,2026-08-06,82,Sí,LinkedIn
+C0249,37,7,1760000.0,Salta,Senior,Bootcamp,2026-03-19,72,Sí,Portal empleo
+C0250,40,11,2150000.0,Mendoza,Lead,Universitaria,2026-01-09,50,Sí,Universidad
+C0251,30,4,1330000.0,Córdoba,Semi Senior,Bootcamp,2026-06-24,74,Sí,Referido
+C0252,28,2,1480000.0,Buenos Aires,Semi Senior,Universitaria,2026-03-17,100,Sí,Referido
+C0253,25,0,780000.0,Mendoza,Junior,Terciaria,2026-02-11,79,No,LinkedIn
+C0254,25,2,1030000.0,Córdoba,Semi Senior,Bootcamp,2026-06-28,71,Sí,LinkedIn
+C0255,37,4,1240000.0,Córdoba,Semi Senior,Universitaria,2026-07-03,87,Sí,LinkedIn
+C0256,36,10,2360000.0,Buenos Aires,Lead,Universitaria,28-06-2026,75,Sí,Bootcamp
+C0257,35,3,1170000.0,Salta,,Universitaria,2026-07-17,75,Sí,LinkedIn
+C0258,38,5,,Rosario,Senior,Terciaria,2026-05-08,57,No,Referido
+C0259,35,4,1040000.0,Buenos Aires,Semi Senior,Bootcamp,2026-01-20,75,Sí,Portal empleo
+C0260,33,8,2350000.0,cordoba,Lead,Universitaria,2026-08-04,86,Sí,LinkedIn
+C0261,42,13,2070000.0,Buenos Aires,Lead,Bootcamp,04/06/2026,60,Sí,Referido
+C0262,30,3,1410000.0,Salta,Semi Senior,Universitaria,2026-06-15,92,No,Portal empleo
+C0263,26,3,1440000.0,cordoba,Semi Senior,Universitaria,2026-03-13,71,Sí,Universidad
+C0264,36,8,2030000.0,Buenos Aires,Lead,Autodidacta,2026-03-06,60,Sí,Portal empleo
+C0265,29,7,1560000.0,Mendoza,Senior,Universitaria,2026-07-01,86,Sí,Portal empleo
+C0266,42,10,2390000,Rosario,Lead,Universitaria,2026-04-23,68,Sí,LinkedIn
+C0267,31,6,1590000.0,Rosario,Senior,Universitaria,2026-01-24,83,Sí,Bootcamp
+C0268,31,3,1190000.0,Rosario,,Universitaria,08-05-2026,68,Sí,LinkedIn
+C0269,34,6,1650000.0,Buenos Aires,Senior,Universitaria,2026-06-24,71,Sí,Universidad
+C0270,34,8,1780000.0,Córdoba,Lead,Universitaria,2026-07-18,79,No,LinkedIn
+C0271,36,7,1650000.0,Mendoza,Senior,Terciaria,2026-03-24,76,Sí,Bootcamp
+C0272,31,6,1540000.0,Mendoza,Senior,Universitaria,,44,Sí,Portal empleo
+C0273,38,8,2090000,Mendoza,Lead,Terciaria,2026-03-04,56,Sí,Universidad
+C0274,30,8,2520000.0,Salta,Lead,Universitaria,,85,No,LinkedIn
+C0275,37,9,1920000.0,Buenos Aires,Lead,Universitaria,2026-07-02,70,Sí,Referido
+C0276,42,7,1780000.0,Buenos Aires,Senior,Terciaria,2026-03-01,65,No,Portal empleo
+C0277,27,4,1.170.000,Mendoza,Semi Senior,Autodidacta,2026-04-09,53,Sí,Universidad
+C0278,29,5,1600000.0,,Senior,Universitaria,2026-03-03,57,Sí,LinkedIn
+C0279,37,8,2370000.0,Rosario,Lead,Bootcamp,2026-01-30,44,Sí,Bootcamp
+C0280,30,,1240000.0,Mendoza,Semi Senior,Terciaria,2026-08-09,71,Sí,Universidad
+C0281,34,6,1740000.0,Mendoza,Senior,Terciaria,2026-01-22,64,No,LinkedIn
+C0282,32,3,1320000.0,Córdoba,Semi Senior,Terciaria,22/07/2026,58,No,Universidad
+C0283,35,5,1600000.0,Buenos Aires,Senior,Universitaria,2026-07-31,71,Sí,Referido
+C0284,40,9,2070000.0,Córdoba,Lead,Universitaria,2026-05-06,77,Sí,Referido
+C0285,34,5,1470000.0,Buenos Aires,Senior,Terciaria,2026-06-06,100,No,LinkedIn
+C0286,31,5,1510000.0,Córdoba,Senior,Universitaria,2026-06-18,51,Sí,Portal empleo
+C0287,30,0,1100000.0,Buenos Aires,Junior,Autodidacta,2026-02-11,88,Sí,Portal empleo
+C0288,42,7,1860000.0,buenos aires,Senior,Universitaria,,86,Sí,Referido
+C0289,33,7,1430000.0,Córdoba,Senior,Universitaria,2026-07-12,61,Sí,Portal empleo
+C0290,34,11,1910000.0,Buenos Aires,Lead,Bootcamp,2026-01-31,75,Sí,Portal empleo
+C0291,35,,1260000.0,Córdoba,Semi Senior,Universitaria,07/06/2026,66,Sí,Portal empleo
+C0292,32,5,1740000.0,Córdoba,Senior,Terciaria,2026-04-22,75,Sí,LinkedIn
+C0293,23,5,1740000.0,Mendoza,Senior,Bootcamp,2026-05-26,93,Sí,Universidad
+C0294,40,10,2140000.0,Buenos Aires,Lead,Autodidacta,2026-05-02,80,Sí,Referido
+C0295,29,4,1180000.0,Córdoba,Semi Senior,Bootcamp,2026-01-17,79,Sí,LinkedIn
+C0296,32,5,1700000.0,Buenos Aires,Senior,Terciaria,2026-02-07,66,No,LinkedIn
+C0297,34,6,1660000.0,Rosario,Senior,Terciaria,2026-05-22,51,Sí,Referido
+C0298,33,5,1280000.0,Córdoba,Senior,Autodidacta,2026-08-03,69,Sí,Universidad
+C0299,33,3,$1.170.000,Buenos Aires,Semi Senior,Universitaria,2026-08-05,89,No,Referido
+C0300,30,5,1510000.0,Córdoba,Senior,Universitaria,2026-07-26,51,No,Portal empleo
+C0301,37,8,2240000.0,Córdoba,Líder,Universitaria,,57,Sí,LinkedIn
+C0302,27,1,1100000.0,Buenos Aires,Junior,Universitaria,2026-07-03,74,Sí,Referido
+C0303,35,5,1710000.0,Buenos Aires,Senior,Terciaria,2026-01-22,58,No,Bootcamp
+C0304,31,2,1160000.0,Buenos Aires,Semi Senior,Terciaria,2026-07-14,61,No,Universidad
+C0305,31,8,2400000.0,Rosario,Lead,Terciaria,2026-02-25,66,No,LinkedIn
+C0306,31,0,890000.0,Salta,Junior,Universitaria,29-04-2026,53,No,Referido
+C0307,28,3,1250000.0,Buenos Aires,Semi Senior,Bootcamp,2026-05-27,58,Sí,LinkedIn
+C0308,36,6,1750000.0,Córdoba,Senior,Universitaria,2026-02-26,82,Sí,Referido
+C0309,38,10,,Mendoza,Lead,Terciaria,2026-06-21,54,Sí,Universidad
+C0310,38,4,1060000.0,Córdoba,SSr,Terciaria,2026-08-14,50,Sí,Universidad
+C0311,29,3,1260000,Buenos Aires,Semi Senior,Universitaria,2026-02-04,63,Sí,LinkedIn
+C0312,37,11,2000000.0,Córdoba,Lead,Universitaria,2026/04/24,82,Sí,Bootcamp
+C0313,27,0,900000.0,Córdoba,Junior,Universitaria,2026-05-05,69,Sí,Portal empleo
+C0314,26,0,770000.0,Salta,Junior,Bootcamp,2026-05-09,65,No,Referido
+C0315,36,6,1580000.0,Mendoza,Senior,Autodidacta,2026-02-21,73,Sí,Referido
+C0316,24,3,1.160.000,Rosario,Semi Senior,Terciaria,2026-03-26,48,Sí,Portal empleo
+C0317,24,1,930000.0,Buenos Aires,Junior,Universitaria,2026-08-09,79,Sí,Portal empleo
+C0318,30,7,1800000.0,Córdoba,Senior,Universitaria,2026-07-17,77,Sí,Referido
+C0319,36,5,$1.440.000,Córdoba,Senior,Bootcamp,2026-06-14,66,No,Referido
+C0320,37,3,1210000.0, Córdoba ,Semi Senior,Bootcamp,06-03-2026,86,No,LinkedIn
+C0321,27,0,790000.0,Buenos Aires,Junior,Universitaria,2026-06-28,56,No,Universidad
+C0322,33,7,1440000.0,Rosario,Senior,Universitaria,2026-05-09,88,Sí,Portal empleo
+C0323,34,7,1610000.0,Rosario,,Bootcamp,2026-08-07,74,Sí,LinkedIn
+C0324,36,4,1160000.0,Córdoba,Semi Senior,Universitaria,2026-01-21,67,Sí,Universidad
+C0325,33,10,2730000.0,Salta,,Universitaria,2026-06-30,72,Sí,Bootcamp
+C0326,29,1,890000.0,Rosario,Junior,Universitaria,2026-01-16,70,No,Bootcamp
+C0327,31,0,730.000,Buenos Aires,Junior,Terciaria,2026-05-03,89,No,Referido
+C0328,31,2,1130000.0,Buenos Aires,semisenior,Bootcamp,2026-03-02,57,No,LinkedIn
+C0329,32,4,1320000.0,Buenos Aires,SSr,Autodidacta,2026-02-23,61,Sí,Referido
+C0330,36,5,1990000.0,Córdoba,Senior,Terciaria,2026-06-17,87,No,LinkedIn
+C0331,20,4,1010000.0,Buenos Aires,Semi Senior,Terciaria,2026-01-26,64,Sí,Bootcamp
+C0332,36,6,1340000.0,Rosario,Senior,Universitaria,2026-03-21,85,No,LinkedIn
+C0333,24,0,1010000.0,Córdoba,,Terciaria,2026-08-08,96,Sí,LinkedIn
+C0334,29,9,2290000.0,Córdoba,Lead,Universitaria,2026-03-06,66,Sí,Referido
+C0335,33,4,1100000.0,Córdoba,Semi Senior,Terciaria,2026-04-10,82,Sí,Referido
+C0336,40,8,2320000.0,Córdoba,Lead,Universitaria,2026-03-15,56,No,Universidad
+C0337,32,6,1220000.0,Mendoza,Senior,Universitaria,2026-07-11,83,Sí,Referido
+C0338,37,6,1650000.0,rosario,Senior,Universitaria,2026-06-20,75,Sí,LinkedIn
+C0339,39,6,1700000.0,Buenos Aires,Senior,Universitaria,17-01-2026,79,No,LinkedIn
+C0340,,6,1800000.0,Córdoba,Senior,Universitaria,2026-05-01,63,Sí,Referido
+C0341,41,7,1480000,BUENOS AIRES,Senior,Universitaria,2026-07-06,49,Sí,LinkedIn
+C0342,39,9,$ 2.220.000,Buenos Aires,Lead,Autodidacta,2026-01-23,79,Sí,Portal empleo
+C0343,32,5,,Córdoba,Senior,Universitaria,2026-05-15,43,Sí,Portal empleo
+C0344,28,7,1690000.0,Buenos Aires,senior,Terciaria,2026-06-21,68,No,Portal empleo
+C0345,,4,1090000.0,Bs As,Semi Senior,Bootcamp,2026-06-30,85,No,Bootcamp
+C0346,33,9,,Buenos Aires,Lead,Autodidacta,2026-03-12,75,Sí,Bootcamp
+C0347,38,25,1080000.0,Buenos Aires,Semi Senior,Terciaria,2026-04-18,99,No,Bootcamp
+C0348,36,10,2340000.0,Córdoba,Lead,Bootcamp,2026-03-20,86,Sí,LinkedIn
+C0349,31,4,1300000.0,,Semi Senior,Universitaria,2026-06-11,63,Sí,LinkedIn
+C0350,29,0,830000.0,Buenos Aires,Junior,Universitaria,2026-02-15,72,Sí,LinkedIn
+C0351,32,5,1.660.000,Buenos Aires,Senior,Universitaria,2026-07-15,,Sí,Universidad
+C0352,36,2,1030000.0,Mendoza,Semi Senior,Terciaria,,50,Sí,Bootcamp
+C0353,32,,1600000.0,Rosario,Senior,Bootcamp,2026-03-19,59,No,Universidad
+C0354,30,2,1190000.0,Córdoba,Semi Senior,Universitaria,2026-01-16,64,No,LinkedIn
+C0355,27,3,1510000.0,Córdoba,Semi Senior,Universitaria,2026-03-12,43,Sí,Bootcamp
+C0356,22,0,$ 760.000,Rosario,Junior,Terciaria,2026-04-06,73,Sí,Referido
+C0357,28,3,1380000.0,Córdoba,Semi Senior,Universitaria,2026-05-27,69,No,LinkedIn
+C0358,27,0,930000.0,Bs As,Junior,Terciaria,2026-01-02,49,No,Referido
+C0359,-4,0,,Salta,Junior,Bootcamp,2026-01-10,78,No,LinkedIn
+C0360,31,7,1940000.0,Buenos Aires,Senior,Bootcamp,2026-06-27,,Sí,Portal empleo
+C0361,,7,1710000.0,Buenos Aires,Senior,Bootcamp,2026-05-05,75,No,LinkedIn
+C0362,33,6,1710000.0,Rosario,Senior,Bootcamp,2026-03-22,67,Sí,Referido
+C0363,22,1,850000.0,Buenos Aires,Junior,Terciaria,2026-05-20,80,Sí,Portal empleo
+C0364,34,4,1350000.0,Buenos Aires,Semi Senior,Bootcamp,2026-03-11,82,Sí,Universidad
+C0365,31,4,1330000.0,Salta,Semi Senior,Terciaria,2026-05-30,76,Sí,Portal empleo
+C0366,22,1,800000.0,Buenos Aires,Junior,Universitaria,2026-02-01,60,Sí,Referido
+C0367,35,9,$1.910.000,Salta,Lead,Universitaria,15/04/2026,76,Sí,Universidad
+C0368,31,7,1620000.0,Mendoza,Senior,Universitaria,2026-03-25,89,Sí,Bootcamp
+C0369,32,4,1100000.0,CORDOBA,Semi Senior,Universitaria,2026-05-09,64,No,LinkedIn
+C0370,37,5,1640000.0,Córdoba,Senior,Terciaria,2026-07-01,,Sí,Portal empleo
+C0371,24,5,,Córdoba,Senior,Bootcamp,2026-02-27,65,Sí,LinkedIn
+C0372,27,0,810000.0,Córdoba,JR,Universitaria,17-07-2026,72,Sí,LinkedIn
+C0373,30,,1190000.0,Córdoba,Semi Senior,Universitaria,2026-07-30,63,No,Portal empleo
+C0374,32,2,1210000.0,Rosario,semisenior,Autodidacta,2026-05-26,75,Sí,Universidad
+C0375,29,1,920000.0, Córdoba ,junior,Universitaria,2026-05-14,48,Sí,LinkedIn
+C0376,28,4,930000.0,Córdoba,Semi Senior,Universitaria,14/02/2026,64,Sí,Universidad
+C0377,36,10,2070000.0,Mendoza,Lead,Terciaria,2026-04-07,57,No,Universidad
+C0378,31,7,1680000.0,Córdoba,Senior,Terciaria,2026-01-23,74,No,Bootcamp
+C0379,34,3,1340000.0,MENDOZA,Semi Senior,Universitaria,2026-01-23,86,Sí,LinkedIn
+C0380,33,6,1570000.0,Córdoba,Senior,Universitaria,2026-06-03,81,Sí,Bootcamp
+C0381,44,9,1790000.0,Córdoba,Lead,Universitaria,2026-07-24,39,No,LinkedIn
+C0382,34,7,1750000.0,Rosario,Senior,Terciaria,2026-05-15,100,Sí,Portal empleo
+C0383,29,5,1550000.0,Buenos Aires,Senior,Terciaria,2026-03-20,76,Sí,LinkedIn
+C0384,23,-3,1060000.0,Mendoza,Semi Senior,Universitaria,2026-02-13,61,Sí,LinkedIn
+C0385,27,7,1550000.0,Rosario,Senior,Terciaria,2026-01-27,74,Sí,Portal empleo
+C0386,27,6,1.620.000,Mendoza,senior,Bootcamp,2026-01-26,74,Sí,Referido
+C0387,35,7,1550000.0,Córdoba,Senior,Universitaria,2026-04-07,63,Sí,LinkedIn
+C0388,36,7,1290000.0,Córdoba,Senior,Terciaria,2026-07-26,75,No,LinkedIn
+C0389,29,8,2400000.0,Rosario,lead,Bootcamp,2026-02-05,63,No,Portal empleo
+C0390,34,3,1350000.0,Mendoza,Semi Senior,Universitaria,,66,Sí,LinkedIn
+C0391,34,9,2340000.0,Salta,Lead,Universitaria,2026-02-24,62,No,Universidad
+C0392,33,5,1460000.0,Buenos Aires,Senior,Terciaria,2026-07-11,52,Sí,LinkedIn
+C0393,44,11,2160000.0,Buenos Aires,Lead,Bootcamp,2026-08-07,74,Sí,LinkedIn
+C0394,33,2,1200000.0,Rosario,Semi Senior,Bootcamp,2026-07-04,80,Sí,Referido
+C0395,36,10,2330000.0,Buenos Aires,Lead,Terciaria,2026-03-10,79,No,Referido
+C0396,28,5,1760000.0,Salta,Senior,Bootcamp,2026-03-02,83,No,Referido
+C0397,20,2,1110000.0,Mendoza,Semi Senior,Universitaria,2026/05/10,77,Sí,LinkedIn
+C0398,27,3,1210000.0,Buenos Aires,Semi Senior,Terciaria,24/02/2026,65,No,Bootcamp
+C0399,29,,1250000,Rosario,,Universitaria,2026-05-02,84,Sí,Portal empleo
+C0400,29,6,1890000.0,Rosario,Senior,Universitaria,2026-04-07,53,No,LinkedIn
+C0401,32,6,1770000.0,Córdoba,Senior,Bootcamp,2026-03-21,59,No,Referido
+C0402,120,3,1290000,Mendoza,SSr,Terciaria,2026-03-28,59,No,Universidad
+C0403,30,4,1210000.0,Buenos Aires,Semi Senior,Universitaria,2026-02-07,87,Sí,LinkedIn
+C0404,35,11,2510000.0,Mendoza,Lead,Autodidacta,2026-04-29,85,Sí,LinkedIn
+C0405,38,10,2290000.0,Córdoba,Lead,Universitaria,2026-07-27,79,Sí,Universidad
+C0406,35,6,1510000.0,Mendoza,Senior,Universitaria,2026-03-19,87,Sí,Portal empleo
+C0407,28,5,1880000,Buenos Aires,Senior,Universitaria,2026-06-06,60,Sí,Portal empleo
+C0408,38,5,1770000.0,Cordoba,Senior,Bootcamp,2026-06-03,77,Sí,LinkedIn
+C0409,33,6,1580000.0,Mendoza,Senior,Bootcamp,2026-02-04,70,Sí,LinkedIn
+C0410,,1,810000.0,Córdoba,Junior,Universitaria,2026-03-20,84,Sí,Portal empleo
+C0411,34,4,1240000.0,Córdoba,Semi Senior,Terciaria,2026-03-08,70,Sí,LinkedIn
+C0412,28,0,890000.0,Salta,Junior,Universitaria,2026-03-28,67,Sí,Referido
+C0413,37,6,1680000.0,Salta,Senior,Bootcamp,06/06/2026,80,No,Portal empleo
+C0414,35,7,1700000.0,Buenos Aires,Senior,Universitaria,2026-02-03,84,Sí,LinkedIn
+C0415,28,3,1400000.0,Buenos Aires,Semi Senior,Universitaria,07-04-2026,63,Sí,Bootcamp
+C0416,38,10,2440000,Buenos Aires,Lead,Autodidacta,2026-06-18,71,No,Universidad
+C0417,,1,870000.0,Córdoba,Junior,Universitaria,18/06/2026,57,Sí,Portal empleo
+C0418,27,0,930000.0,Córdoba,Junior,Universitaria,2026-05-31,37,Sí,LinkedIn
+C0419,32,5,1480000.0,Rosario,Senior,Terciaria,2026-03-12,75,Sí,LinkedIn
+C0420,34,8,2290000.0,Rosario,Lead,Autodidacta,2026-01-03,81,Sí,Referido
+C0421,36,10,2600000.0,MENDOZA,Lead,Universitaria,2026-02-27,76,No,LinkedIn
+C0422,22,3,1170000.0,Rosario,Semi Senior,Universitaria,2026-02-01,45,Sí,Bootcamp
+C0423,33,8,2010000.0,Córdoba,Lead,Universitaria,2026-01-31,67,Sí,LinkedIn
+C0424,31,4,1120000.0,Buenos Aires,Semi Senior,Terciaria,2026/03/23,41,Sí,Referido
+C0425,32,4,1070000.0,Córdoba,Semi Senior,Universitaria,2026-02-12,91,Sí,Referido
+C0426,30,7,1520000.0,Buenos Aires,Senior,Terciaria,2026-05-15,57,No,Portal empleo
+C0427,39,7,1590000.0,BUENOS AIRES,Senior,Autodidacta,2026-04-15,90,Sí,LinkedIn
+C0428,24,0,730000.0,Mendoza,Junior,Universitaria,2026-01-01,85,Sí,Referido
+C0429,40,9,2200000.0,Buenos Aires,Lead,Universitaria,2026-03-02,59,Sí,LinkedIn
+C0430,38,9,2400000.0, Córdoba ,lead,Universitaria,2026-01-14,56,Sí,Universidad
+C0431,26,2,1090000.0,Córdoba,semisenior,Universitaria,2026-06-29,77,Sí,LinkedIn
+C0432,40,6,1900000.0,Rosario,Senior,Bootcamp,2026-08-12,60,No,Bootcamp
+C0433,28,6,1730000.0,Buenos Aires,SR,Universitaria,2026-01-06,73,No,Universidad
+C0434,36,5,1820000.0,Córdoba,Senior,Universitaria,2026-04-13,65,No,LinkedIn
+C0435,34,3,$1.120.000,Córdoba,Semi Senior,Terciaria,2026-01-10,,No,Universidad
+C0436,26,2,1300000.0,Rosario,Semi Senior,Universitaria,2026-03-12,41,No,LinkedIn
+C0437,37,4,1070000.0,Córdoba,Semi Senior,Terciaria,2026-03-31,75,Sí,Bootcamp
+C0438,34,8,2400000.0,,Lead,Universitaria,2026-08-14,64,No,Referido
+C0439,34,6,1680000.0, Rosario ,,Bootcamp,2026-06-07,64,No,LinkedIn
+C0440,31,3,1270000.0,cordoba,Semi Senior,Autodidacta,2026/05/29,82,No,Referido
+C0441,33,7,,Córdoba,Senior,Terciaria,2026-05-06,88,Sí,LinkedIn
+C0442,30,0,770000.0,SALTA,Junior,Autodidacta,2026-07-07,68,Sí,Bootcamp
+C0443,38,8,2330000.0,Buenos Aires,Lead,Universitaria,2026-07-28,67,No,LinkedIn
+C0444,20,0,770000.0,,Junior,Universitaria,2026-04-07,79,No,Portal empleo
+C0445,35,3,1260000.0,MENDOZA,Semi Senior,Terciaria,2026-03-15,53,No,Referido
+C0446,21,1,730000.0,Salta,Junior,Terciaria,2026-04-25,75,Sí,Bootcamp
+C0447,31,0,920000.0,,Junior,Universitaria,2026-07-10,80,Sí,LinkedIn
+C0448,40,8,1930000.0,Rosario,Lead,Universitaria,2026-06-19,82,Sí,Portal empleo
+C0449,26,3,1270000.0,Buenos Aires,Semi Senior,Universitaria,2026-02-20,45,No,Referido
+C0450,31,6,1750000,cordoba,Senior,Universitaria,2026-07-11,61,Sí,Portal empleo
+C0451,27,4,1120000.0,Rosario,Semi Senior,Universitaria,2026-07-23,60,Sí,LinkedIn
+C0452,32,6,1750000.0,Buenos Aires,Senior,Bootcamp,2026-02-25,73,No,LinkedIn
+C0453,31,5,1690000.0,,Senior,Universitaria,2026-07-27,79,Sí,LinkedIn
+C0454,30,0,800000.0,Mendoza,Junior,Universitaria,2026-02-10,93,No,Portal empleo
+C0455,40,8,$1.980.000,Córdoba,Lead,Terciaria,2026-02-01,65,Sí,LinkedIn
+C0456,36,3,960000.0,Buenos Aires,Semi Senior,Terciaria,2026-01-15,65,No,Portal empleo
+C0457,25,0,880000.0,Córdoba,Junior,Bootcamp,2026-03-03,88,Sí,LinkedIn
+C0458,29,3,1010000.0,Buenos Aires,Semi Senior,Terciaria,2026-06-04,76,No,Universidad
+C0459,29,9,2220000.0,Córdoba,Lead,Universitaria,2026-01-28,90,No,Bootcamp
+C0460,31,7,1610000.0,Córdoba,Senior,Bootcamp,2026-07-28,,Sí,Referido
+C0461,34,3,1280000.0,Córdoba,Semi Senior,Terciaria,2026-03-05,56,Sí,Referido
+C0462,36,3,1160000.0,Rosario,Semi Senior,Universitaria,2026/07/06,53,Sí,LinkedIn
+C0463,25,3,1160000.0,Rosario,Semi Senior,Terciaria,2026-07-05,50,Sí,LinkedIn
+C0464,36,11,2360000.0,Buenos Aires,Líder,Autodidacta,2026-05-10,81,No,LinkedIn
+C0465,33,6,1710000.0,Salta,Senior,Universitaria,2026-05-07,89,Sí,Portal empleo
+C0466,34,6,$1.700.000,Buenos Aires,Senior,Universitaria,2026-02-05,98,Sí,Portal empleo
+C0467,32,8,2300000.0,CORDOBA,Lead,Universitaria,2026-04-24,84,Sí,Bootcamp
+C0468,34,5,1400000.0,Mendoza,Senior,Universitaria,2026-07-18,88,No,Referido
+C0469,29,4,$1.290.000,Córdoba,Semi Senior,Universitaria,2026-01-13,64,No,Portal empleo
+C0470,31,4,1270000.0,Salta,Semi Senior,Terciaria,15-01-2026,56,Sí,Referido
+C0471,33,4,1080000.0,Córdoba,semisenior,Universitaria,2026-03-30,84,Sí,Referido
+C0472,31,4,1.170.000,Salta,Semi Senior,Autodidacta,2026-08-03,78,Sí,LinkedIn
+C0473,32,7,1640000.0,Córdoba,Senior,Bootcamp,2026-07-07,74,Sí,Referido
+C0474,32,5,1630000.0,Mendoza,Senior,Terciaria,2026-01-22,77,Sí,Referido
+C0475,34,7,1710000.0,Buenos Aires,Senior,Bootcamp,2026-07-10,77,Sí,Portal empleo
+C0476,30,4,1370000.0,Salta,Semi Senior,Universitaria,2026-08-06,90,Sí,Bootcamp
+C0477,31,5,$ 1.830.000,Córdoba,Senior,Universitaria,2026-08-13,90,Sí,LinkedIn
+C0478,33,0,740000.0,Buenos Aires,Junior,Terciaria,2026-07-22,80,Sí,LinkedIn
+C0479,36,7,$1.750.000,Salta,Senior,Bootcamp,2026-03-15,84,Sí,Referido
+C0480,32,6,1870000.0,,Senior,Bootcamp,2026-01-25,79,Sí,Portal empleo
+C0481,38,8,2290000.0,Buenos Aires,Lead,Universitaria,2026-04-11,66,No,LinkedIn
+C0482,26,0,940000.0,Rosario,Junior,Autodidacta,2026-06-25,83,No,Universidad
+C0483,43,11,2640000.0,Buenos Aires,Lead,Universitaria,,52,Sí,Bootcamp
+C0484,32,4,1320000.0,Buenos Aires,Semi Senior,Bootcamp,2026/04/27,87,Sí,Bootcamp
+C0485,35,8,2250000.0,Buenos Aires,Lead,Autodidacta,2026-06-15,55,No,LinkedIn
+C0486,30,1,940000,Mendoza,Junior,Universitaria,2026-02-10,76,No,Universidad
+C0487,27,6,1670000,Córdoba,Senior,Bootcamp,2026-06-22,60,Sí,Portal empleo
+C0488,23,1,850000.0,Córdoba,Junior,Universitaria,2026-03-29,80,Sí,Referido
+C0489,25,3,$1.160.000,Salta,Semi Senior,Universitaria,2026-06-17,72,Sí,Portal empleo
+C0490,39,11,2540000.0,Mendoza,Lead,Terciaria,2026-04-20,50,Sí,Universidad
+C0491,38,4,1100000.0,Buenos Aires,Semi Senior,Terciaria,2026-04-30,78,Sí,Referido
+C0492,41,5,1900000.0,Buenos Aires,Senior,Autodidacta,2026-04-07,64,Sí,Referido
+C0493,37,7,$ 1.730.000,Córdoba,Senior,Terciaria,2026-05-25,84,No,Referido
+C0494,35,6,1420000.0,CORDOBA,Sr,Terciaria,04-08-2026,72,Sí,Portal empleo
+C0495,25,5,1710000.0,Buenos Aires,Senior,Bootcamp,2026-02-26,78,Sí,LinkedIn
+C0496,31,,,Buenos Aires,Senior,Autodidacta,2026-05-10,59,Sí,Bootcamp
+C0497,36,12,2340000.0,Buenos Aires,Lead,Universitaria,2026-04-06,64,Sí,Portal empleo
+C0498,29,4,1310000.0,Córdoba,Semi Senior,Autodidacta,2026-05-01,66,Sí,Portal empleo
+C0499,31,5,1550000.0,Salta,Senior,Universitaria,2026-03-03,84,Sí,LinkedIn
+C0500,33,8,2230000.0,Salta,Lead,Bootcamp,,95,No,Portal empleo
+C0501,27,8,2630000,,Lead,Universitaria,2026-05-17,61,Sí,LinkedIn
+C0502,38,8,2090000.0,Buenos Aires,Lead,Universitaria,2026-03-09,87,No,LinkedIn
+C0503,30,7,1480000.0,Córdoba,Senior,Universitaria,2026-03-22,42,No,Referido
+C0504,29,1,980000.0,Mendoza,Junior,Terciaria,2026-01-17,55,Sí,Referido
+C0505,45,10,2630000.0,Rosario,LEAD,Universitaria,2026-04-27,59,Sí,Portal empleo
+C0506,24,1,850000.0,Córdoba,Junior,Universitaria,19/02/2026,53,Sí,LinkedIn
+C0507,22,5,1820000.0,Salta,Senior,Terciaria,2026-04-22,50,No,Referido
+C0508,28,2,1360000.0,Mendoza,SSr,Autodidacta,2026/04/04,78,No,LinkedIn
+C0509,35,4,1110000.0,salta,Semi Senior,Universitaria,2026-06-17,69,No,Bootcamp
+C0510,41,6,1570000.0,Rosario,Senior,Universitaria,2026-07-05,77,Sí,Portal empleo
+C0511,28,6,1850000.0,Buenos Aires,Senior,Universitaria,2026-07-22,82,Sí,Portal empleo
+C0512,35,6,1930000.0,Buenos Aires,Senior,Universitaria,26/03/2026,76,Sí,LinkedIn
+C0513,,10,2320000.0,Salta,Lead,Bootcamp,2026-05-29,81,Sí,LinkedIn
+C0514,33,6,1500000.0,Mendoza,Senior,Bootcamp,2026-05-26,71,Sí,Bootcamp
+C0515,42,4,1440000.0,Córdoba,semisenior,Terciaria,2026-07-02,55,Sí,LinkedIn
+C0516,29,8,2080000.0,Córdoba,Lead,Universitaria,2026-06-06,87,No,Referido
+C0517,36,8,2130000.0,Buenos Aires,Lead,Bootcamp,2026-06-01,64,Sí,Portal empleo
+C0518,30,1,880000.0,Mendoza,Junior,Terciaria,2026-03-15,59,Sí,LinkedIn
+C0519,17,6,1910000.0,Salta,Senior,Bootcamp,2026-04-19,70,Sí,Universidad
+C0520,34,7,1790000.0,Córdoba,Senior,Terciaria,2026-05-25,59,No,Portal empleo
+C0521,32,4,1250000.0,Buenos Aires,Semi Senior,Bootcamp,2026-01-18,66,No,LinkedIn
+C0522,34,9,2300000.0,buenos aires,Lead,Terciaria,2026-02-11,77,Sí,LinkedIn
+C0523,32,4,1210000.0,Salta,Semi Senior,Universitaria,2026-07-31,77,Sí,LinkedIn
+C0524,31,5,,Mendoza,Senior,Autodidacta,2026-04-11,59,Sí,Universidad
+C0525,33,4,900000.0,Mendoza,Semi Senior,Terciaria,2026-02-14,65,No,Portal empleo
+C0526,31,5,1600000.0,Buenos Aires,Senior,Terciaria,2026-03-23,87,Sí,LinkedIn
+C0527,30,1,870000.0,Buenos Aires,,Universitaria,2026-01-17,79,Sí,LinkedIn
+C0528,27,0,750000.0,Córdoba,Junior,Terciaria,2026-03-14,100,Sí,Portal empleo
+C0529,42,10,2280000.0,Córdoba,Lead,Terciaria,2026-01-14,89,Sí,Portal empleo
+C0530,29,2,1180000,Mendoza,Semi Senior,Universitaria,2026-06-26,88,No,Referido
+C0531,21,1,1000000.0,Mendoza,Jr,Universitaria,2026-06-06,53,Sí,Referido
+C0532,32,0,980000.0,Salta,Junior,Terciaria,2026-08-11,83,Sí,LinkedIn
+C0533,25,2,1140000.0,Salta,Semi Senior,Bootcamp,2026-05-12,71,Sí,Portal empleo
+C0534,24,0,,Buenos Aires,Junior,Terciaria,2026-03-23,64,Sí,Bootcamp
+C0535,35,10,2180000.0,Rosario,Lead,Universitaria,2026-05-28,74,No,LinkedIn
+C0536,40,8,2100000,Salta,Lead,Terciaria,2026-04-30,85,Sí,Portal empleo
+C0537,20,2,1220000.0,Mendoza,Semi-Senior,Universitaria,2026-04-30,79,No,Referido
+C0538,52,12,2030000.0,Córdoba,Lead,Universitaria,16-02-2026,60,No,Referido
+C0539,39,,1950000.0,Buenos Aires,Lead,Universitaria,2026-04-17,82,Sí,LinkedIn
+C0540,31,3,1270000.0,Córdoba,Semi Senior,Universitaria,2026-04-18,63,Sí,Universidad
+C0541,27,0,900000.0,Salta,Junior,Universitaria,2026-01-09,75,Sí,Referido
+C0542,40,12,2020000.0,Buenos Aires,Lead,Universitaria,,68,No,Portal empleo
+C0543,29,0,930000.0,Córdoba,Junior,Universitaria,2026/03/20,69,Sí,LinkedIn
+C0544,30,0,800000.0,Rosario,Junior,Universitaria,2026-06-04,83,Sí,LinkedIn
+C0545,37,8,2260000.0,Buenos Aires,Lead,Terciaria,2026-01-15,57,Sí,LinkedIn
+C0546,39,12,,Buenos Aires,Lead,Terciaria,2026-08-08,99,No,Portal empleo
+C0547,35,9,2190000.0,Córdoba,Lead,Universitaria,,47,Sí,LinkedIn
+C0548,32,6,1730000.0,Rosario,Senior,Bootcamp,2026-03-31,64,Sí,Portal empleo
+C0549,32,6,1560000.0,Buenos Aires,Senior,Universitaria,2026-06-29,77,Sí,Referido
+C0550,,7,1620000.0,Rosario,Senior,Terciaria,2026-01-26,80,Sí,Referido
+C0551,36,7,1620000.0,Buenos Aires,Senior,Universitaria,2026-08-05,71,No,Referido
+C0552,20,5,,Mendoza,Senior,Universitaria,2026-06-03,71,Sí,Referido
+C0553,35,,1620000.0,Buenos Aires,Senior,Terciaria,2026-06-03,78,No,LinkedIn
+C0554,32,4,1010000.0,Buenos Aires,Semi Senior,Terciaria,2026-06-23,69,No,LinkedIn
+C0555,29,2,1140000.0,Mendoza,SSr,Bootcamp,2026-04-02,92,Sí,Portal empleo
+C0556,29,4,1170000.0,Buenos Aires,Semi Senior,Terciaria,2026-06-26,,No,Portal empleo
+C0557,31,0,830000,Córdoba,Junior,Autodidacta,2026-03-23,84,Sí,LinkedIn
+C0558,35,4,1170000.0,Córdoba,Semi Senior,Universitaria,12-08-2026,58,Sí,Referido
+C0559,25,1,840.000,Rosario,Junior,Universitaria,2026-06-30,71,Sí,LinkedIn
+C0560,30,1,890000.0,Buenos Aires,Junior,Universitaria,2026-05-11,68,Sí,LinkedIn
+C0561,28,5,1790000.0,Rosario,Senior,Universitaria,2026-07-13,58,Sí,LinkedIn
+C0562,30,9,2060000.0,Córdoba,Lead,Terciaria,2026-08-13,77,Sí,Universidad
+C0563,31,7,1.450.000,Córdoba,Senior,Terciaria,2026-02-11,64,No,LinkedIn
+C0564,30,0,760000.0,Córdoba,Junior,Universitaria,2026-01-19,81,Sí,LinkedIn
+C0565,32,1,$ 810.000,Buenos Aires, Junior ,Autodidacta,2026-01-17,57,Sí,LinkedIn
+C0566,37,8,2120000.0,Buenos Aires,Lead,Bootcamp,2026-06-10,96,Sí,LinkedIn
+C0567,31,1,780000.0,Buenos Aires,Junior,Universitaria,2026-03-17,59,No,Portal empleo
+C0568,33,4,1040000.0,Buenos Aires,Semi Senior,Universitaria,2026-06-26,75,No,LinkedIn
+C0569,30,6,1570000.0,Mendoza,senior,Universitaria,2026-07-03,83,Sí,LinkedIn
+C0570,30,1,870000.0,Buenos Aires,Junior,Universitaria,2026-03-04,64,No,Portal empleo
+C0571,,5,1750000.0,Buenos Aires,Senior,Universitaria,2026-05-11,,Sí,LinkedIn
+C0572,30,0,$800.000,Rosario,Junior,Terciaria,2026-04-17,55,Sí,Portal empleo
+C0573,35,3,1150000.0,Buenos Aires,Semi Senior,Universitaria,2026-02-18,92,No,Portal empleo
+C0574,36,6,1500000.0,Buenos Aires,Senior,Universitaria,24-02-2026,72,No,LinkedIn
+C0575,28,0,$850.000,Mendoza,Junior,Autodidacta,2026-06-03,64,No,Portal empleo
+C0576,37,6,1510000.0,Salta,Senior,Bootcamp,2026-04-09,,No,LinkedIn
+C0577,31,4,1270000.0,Córdoba,Semi Senior,Autodidacta,2026-07-19,83,Sí,Portal empleo
+C0578,29,6,1360000,Salta,Senior,Universitaria,2026-02-21,64,No,Referido
+C0579,31,5,1590000.0,Buenos Aires,Senior,Universitaria,2026-04-10,62,Sí,LinkedIn
+C0580,33,9,2270000.0,Córdoba,Lead,Terciaria,2026-04-27,69,Sí,Portal empleo
+C0581,29,5,1680000.0,Buenos Aires,Senior,Universitaria,2026-04-28,56,Sí,Universidad
+C0582,29,3,1520000.0,Salta,Semi Senior,Universitaria,2026-01-07,97,Sí,Bootcamp
+C0583,29,5,1.710.000,Buenos Aires,Senior,Terciaria,2026-02-15,64,Sí,Portal empleo
+C0584,,6,1480000.0,Córdoba,Sr,Terciaria,2026-02-15,84,Sí,Referido
+C0585,24,5,1630000.0,Buenos Aires,Senior,Universitaria,10-04-2026,75,Sí,LinkedIn
+C0586,33,5,1360000.0,Córdoba,Sr,Terciaria,2026-05-24,58,Sí,LinkedIn
+C0587,29,2,1190000.0,Córdoba,Semi Senior,Universitaria,2026-06-01,72,Sí,Referido
+C0588,26,2,1100000.0,Córdoba,Semi Senior,Universitaria,2026-07-08,83,Sí,Referido
+C0589,30,0,930000.0,Córdoba,Junior,Universitaria,2026-02-23,69,Sí,Bootcamp
+C0590,41,10,2080000.0,Córdoba,Lead,Universitaria,2026-03-03,89,No,Referido
+C0591,22,1,840000.0,Córdoba,Junior,Universitaria,2026-05-09,86,No,Referido
+C0592,26,2,1120000.0,Rosario,Semi Senior,Autodidacta,2026-02-18,85,No,Referido
+C0593,26,2,1410000.0,Córdoba,Semi Senior,Terciaria,2026-01-25,66,Sí,Universidad
+C0594,30,7,1600000.0,Buenos Aires,Senior,Bootcamp,2026-01-10,57,No,Portal empleo
+C0595,34,4,1420000.0,Mendoza,Semi Senior,Universitaria,2026-04-28,63,Sí,Portal empleo
+C0596,34,8,2380000.0,Buenos Aires,Lead,Universitaria,2026-07-27,75,Sí,LinkedIn
+C0597,28,,1260000.0, Rosario ,Semi Senior,Universitaria,2026-05-24,80,Sí,Universidad
+C0598,24,5,1710000.0,Córdoba,Senior,Universitaria,2026-07-05,42,No,LinkedIn
+C0599,32,2,1250000.0,Córdoba,Semi Senior,Universitaria,2026-07-19,72,Sí,Universidad
+C0600,33,11,1780000.0,Córdoba,LEAD,Bootcamp,06/06/2026,74,Sí,Referido
+C0601,28,1,830000.0,Córdoba,Junior,Terciaria,2026-04-02,68,Sí,Referido
+C0602,33,-1,1790000.0,Córdoba,Senior,Terciaria,2026-05-14,90,No,Referido
+C0603,39,7,1640000.0,,Senior,Universitaria,2026-05-24,78,Sí,Portal empleo
+C0604,28,6,1.420.000,CORDOBA,Senior,Autodidacta,2026-05-28,90,Sí,LinkedIn
+C0605,,,1190000.0,Córdoba,Semi Senior,Universitaria,2026-03-21,69,Sí,Universidad
+C0606,,4,1400000.0,Buenos Aires,Semi Senior,Universitaria,2026-03-12,85,Sí,Referido
+C0607,39,5,1860000.0,Córdoba,Senior,Universitaria,19/03/2026,,Sí,LinkedIn
+C0608,36,4,,Buenos Aires,Semi Senior,Bootcamp,2026-02-12,90,Sí,LinkedIn
+C0609,36,8,2410000.0,Buenos Aires,Lead,Autodidacta,2026-06-03,57,No,Referido
+C0610,37,12,2120000.0,Rosario,Lead,Universitaria,2026-03-31,68,Sí,Referido
+C0611,33,3,1000000.0,Córdoba,Semi Senior,Bootcamp,2026-03-19,67,No,Referido
+C0612,23,0,770000.0,Mendoza,Junior,Bootcamp,2026-07-18,79,Sí,Portal empleo
+C0613,33,4,1390000.0,Buenos Aires,Semi Senior,Universitaria,2026-06-10,82,Sí,Referido
+C0614,42,13,2140000.0,Córdoba,Lead,Universitaria,2026-01-26,60,Sí,Bootcamp
+C0615,33,2,1170000.0,Mendoza,Semi Senior,Universitaria,2026-05-01,73,Sí,Portal empleo
+C0616,48,10,,Salta,Lead,Autodidacta,2026-02-14,44,Sí,Universidad
+C0617,39,10,2620000.0,Córdoba,Lead,Universitaria,2026-07-31,92,No,LinkedIn
+C0618,28,3,1.400.000,Córdoba,Semi Senior,Bootcamp,2026-03-04,65,Sí,Referido
+C0619,33,,2020000.0,Mendoza,Senior,Universitaria,2026-07-14,73,Sí,LinkedIn
+C0620,30,10,2170000.0,Rosario,,Bootcamp,2026-06-29,68,No,Portal empleo
+C0621,27,3,1240000.0,Córdoba,SSr,Universitaria,2026-03-09,88,Sí,Universidad
+C0622,29,4,1020000.0,Córdoba,Semi Senior,Terciaria,2026-06-03,35,No,LinkedIn
+C0623,28,3,1380000.0,Buenos Aires,Semi Senior,Bootcamp,2026-07-22,72,Sí,LinkedIn
+C0624,29,1,750000.0,Buenos Aires,Junior,Bootcamp,2026-01-02,71,Sí,Universidad
+C0625,26,2,1230000.0,Buenos Aires,Semi-Senior,Bootcamp,2026-05-22,66,No,LinkedIn
+C0626,,1,760000.0,Buenos Aires,Junior,Universitaria,2026-04-18,96,Sí,Portal empleo
+C0627,32,5,1550000.0,Buenos Aires,Senior,Bootcamp,2026-01-30,60,Sí,Portal empleo
+C0628,29,2,1100000.0,Rosario,Semi Senior,Universitaria,2026-02-18,83,No,Universidad
+C0629,31,5,1550000,Córdoba,Senior,Universitaria,2026-05-20,77,Sí,LinkedIn
+C0630,28,0,800000.0,Córdoba,Junior,Terciaria,2026-08-06,90,Sí,LinkedIn
+C0631,36,6,1560000.0,Rosario,Senior,Universitaria,2026-02-13,63,Sí,Portal empleo
+C0632,31,7,$1.790.000,,Senior,Terciaria,2026-06-10,62,No,Bootcamp
+C0633,24,0,760000.0,Buenos Aires,Junior,Autodidacta,2026-01-13,87,No,Referido
+C0634,32,6,$1.690.000,buenos aires,Senior,Universitaria,2026-03-19,78,Sí,LinkedIn
+C0635,30,8,2470000.0,Córdoba,Lead,Terciaria,04/08/2026,50,Sí,Portal empleo
+C0636,25,1,810000.0,Buenos Aires,Junior,Universitaria,2026-05-06,64,No,Bootcamp
+C0637,35,10,2040000.0,Buenos Aires,LEAD,Universitaria,2026-04-08,77,Sí,Universidad
+C0638,36,6,1610000.0,Córdoba,Senior,Universitaria,2026/01/26,84,Sí,Bootcamp
+C0639,30,2,,Córdoba,Semi Senior,Autodidacta,2026-05-29,62,No,LinkedIn
+C0640,32,4,1220000.0,Buenos Aires,Semi Senior,Bootcamp,2026-06-05,35,No,LinkedIn
+C0641,36,6,1560000.0,Córdoba,Senior,Autodidacta,2026-02-17,79,No,Portal empleo
+C0642,31,5,1730000.0,Córdoba,Senior,Autodidacta,2026-06-17,,Sí,Universidad
+C0643,35,6,1470000.0,Córdoba,Senior,Universitaria,2026-03-07,44,Sí,LinkedIn
+C0644,29,2,1280000.0,Córdoba,semisenior,Universitaria,2026-07-20,35,Sí,LinkedIn
+C0645,33,5,1720000.0,Córdoba,Senior,Terciaria,2026-03-28,83,Sí,Universidad
+C0646,25,0,820000.0,Mendoza,Junior,Terciaria,2026-03-20,74,Sí,LinkedIn
+C0647,21,4,1100000.0,Buenos Aires,Semi Senior,Universitaria,24-07-2026,69,No,Referido
+C0648,28,2,1090000.0,Rosario,,Universitaria,2026-01-23,91,Sí,Referido
+C0649,35,2,1260000.0,Rosario,Semi Senior,Terciaria,2026-03-22,81,No,Portal empleo
+C0650,39,8,2470000.0,Buenos Aires,Lead,Terciaria,2026-02-17,95,Sí,Portal empleo
+C0651,39,8,2060000.0,Córdoba,Lead,Universitaria,2026-05-04,53,Sí,Referido
+C0652,38,6,1730000.0,Buenos Aires,Senior,Universitaria,2026-05-10,72,Sí,Portal empleo
+C0653,28,1,670000.0,Buenos Aires,Junior,Terciaria,2026-03-25,49,Sí,Portal empleo
+C0654,31,3,1130000.0,Rosario,Semi Senior,Terciaria,2026/01/20,69,Sí,Portal empleo
+C0655,33,8,,Buenos Aires,LEAD,Universitaria,2026-07-06,69,No,Portal empleo
+C0656,31,5,1500000.0,Córdoba,Senior,Bootcamp,2026-02-15,81,No,LinkedIn
+C0657,41,12,1990000.0,Cordoba,Lead,Universitaria,2026-05-11,73,Sí,LinkedIn
+C0658,38,6,1540000.0,Buenos Aires,Senior,Universitaria,2026-07-02,81,Sí,LinkedIn
+C0659,31,5,1700000.0,Rosario,Senior,Bootcamp,2026-01-12,82,No,LinkedIn
+C0660,29,4,,Buenos Aires,Semi Senior,Terciaria,2026-02-09,100,Sí,Referido
+C0661,32,5,1280000.0,Buenos Aires,Senior,Universitaria,2026-03-07,68,Sí,Universidad
+C0662,33,4,$ 950.000,Salta,Semi Senior,Bootcamp,2026-04-10,59,Sí,Portal empleo
+C0663,28,7,1550000.0,Buenos Aires,Senior,Terciaria,2026-03-19,75,No,Universidad
+C0664,26,8,2300000.0,Córdoba,Lead,Bootcamp,2026-01-16,61,Sí,Referido
+C0665,27,2,870000.0,Córdoba,semi senior,Bootcamp,2026/03/24,93,Sí,Referido
+C0666,22,40,810000.0,Córdoba,Junior,Terciaria,2026-06-11,68,No,Referido
+C0667,25,0,810000.0,Córdoba,Junior,Terciaria,2026-02-13,64,Sí,LinkedIn
+C0668,32,6,1880000.0,Córdoba,Senior,Universitaria,2026-05-14,65,Sí,LinkedIn
+C0669,26,1,820000.0,Córdoba,Junior,Universitaria,2026-07-24,82,Sí,Portal empleo
+C0670,33,0,,Córdoba,Junior,Universitaria,2026/07/11,70,No,Bootcamp
+C0671,,6,1670000.0,cba,Senior,Terciaria,2026-04-10,63,Sí,LinkedIn
+C0672,40,12,1730000.0,Mendoza,Lead,Terciaria,2026-01-22,95,No,LinkedIn
+C0673,33,4,1290000.0,Córdoba,Semi Senior,Universitaria,18-01-2026,60,Sí,Universidad
+C0674,29,7,1690000.0,Buenos Aires,Senior,Universitaria,2026-01-12,72,Sí,LinkedIn
+C0675,,5,1730000.0,Buenos Aires,Sr,Terciaria,2026-06-29,81,No,Universidad
+C0676,31,4,1670000.0,Salta,Semi Senior,Universitaria,2026-05-03,49,Sí,Portal empleo
+C0677,37,7,1310000.0,Córdoba,Senior,Bootcamp,2026-08-10,79,Sí,Bootcamp
+C0678,27,4,1410000.0,Buenos Aires,Semi Senior,Universitaria,2026-04-27,57,Sí,Referido
+C0679,26,5,1600000.0,Salta,Senior,Terciaria,2026/02/20,84,Sí,Portal empleo
+C0680,36,6,1700000,Mendoza,Senior,Autodidacta,2026-03-12,59,Sí,Referido
+C0681,31,2,1190000.0,Mendoza,Semi Senior,Universitaria,2026-08-12,82,Sí,Portal empleo
+C0682,31,8,2110000.0,Córdoba,Lead,Universitaria,2026-02-17,87,Sí,Referido
+C0683,28,4,1130000.0,Córdoba,Semi Senior,Universitaria,2026-01-19,84,No,LinkedIn
+C0684,34,2,1240000.0,Rosario,Semi Senior,Terciaria,2026-01-06,,Sí,Referido
+C0685,28,6,1400000.0,Salta,Senior,Terciaria,2026-03-25,69,No,Referido
+C0686,36,2,1290000.0,Buenos Aires,SSr,Universitaria,2026-06-04,64,Sí,Universidad
+C0687,28,5,1580000.0,Buenos Aires,Senior,Terciaria,2026-02-22,93,Sí,Portal empleo
+C0688,34,4,1060000.0,Córdoba,Semi Senior,Bootcamp,2026-04-17,62,Sí,Portal empleo
+C0689,34,8,2100000.0,Rosario,Lead,Universitaria,2026-04-11,57,Sí,LinkedIn
+C0690,35,6,1860000.0,Córdoba,Senior,Universitaria,2026-02-17,81,Sí,Portal empleo
+C0691,29,4,1140000.0,Córdoba,Semi Senior,Bootcamp,2026-05-15,61,No,Referido
+C0692,33,7,1710000.0,Buenos Aires,Senior,Terciaria,2026-07-06,59,No,Universidad
+C0693,36,9,2040000.0,Buenos Aires,Lead,Bootcamp,2026-03-10,52,No,Bootcamp
+C0694,29,6,1780000.0,Córdoba,Senior,Terciaria,2026-01-11,65,Sí,LinkedIn
+C0695,35,5,1760000.0,Córdoba,Senior,Bootcamp,2026-05-23,71,No,Universidad
+C0696,25,0,1010000.0,Buenos Aires,Junior,Universitaria,2026-07-11,75,Sí,LinkedIn
+C0697,27,1,840000.0,Córdoba,Junior,Bootcamp,2026-05-11,85,Sí,Referido
+C0698,27,4,1280000.0,Buenos Aires,Semi Senior,Autodidacta,2026-05-02,79,No,Portal empleo
+C0699,20,3,1210000.0, Córdoba ,Semi Senior,Terciaria,2026-03-10,69,Sí,LinkedIn
+C0700,30,4,1360000.0,Buenos Aires,Semi Senior,Universitaria,2026-01-23,69,Sí,Portal empleo
+C0701,42,5,$1.530.000,Buenos Aires,Senior,Universitaria,2026-06-30,79,Sí,LinkedIn
+C0702,36,6,1770000.0,Córdoba,senior,Universitaria,2026-02-06,90,Sí,LinkedIn
+C0703,31,4,1180000.0,Córdoba,Semi Senior,Universitaria,2026-01-09,74,No,Portal empleo
+C0704,32,6,1640000.0,Córdoba,Senior,Universitaria,2026-01-15,65,Sí,Portal empleo
+C0705,32,5,1670000.0,Córdoba,Senior,Terciaria,2026-05-11,58,No,Bootcamp
+C0706,29,0,870000.0,Salta,Junior,Terciaria,2026-04-03,52,Sí,Portal empleo
+C0707,23,1,$ 840.000,Córdoba,Junior,Universitaria,2026-07-17,81,Sí,Portal empleo
+C0708,35,4,1230000.0,Mendoza,Semi Senior,Terciaria,2026-01-17,80,Sí,Referido
+C0709,31,,980000.0,Córdoba,Junior,Universitaria,2026-06-03,80,Sí,LinkedIn
+C0710,36,6,1810000.0,Rosario,Senior,Universitaria,2026-05-29,,Sí,LinkedIn
+C0711,38,9,2390000.0,Rosario,Lead,Universitaria,2026-03-13,92,No,Portal empleo
+C0712,35,8,2100000.0,Buenos Aires,Lead,Terciaria,2026/05/29,65,No,Portal empleo
+C0713,34,4,1090000.0,Buenos Aires,semisenior,Universitaria,2026-05-01,85,No,Referido
+C0714,38,9,2410000.0,BUENOS AIRES,Lead,Universitaria,2026-01-11,71,No,Portal empleo
+C0715,31,5,1790000.0,Buenos Aires,Senior,Universitaria,2026-06-15,63,No,Referido
+C0716,28,3,,Salta,Semi Senior,Bootcamp,2026-03-13,80,Sí,LinkedIn
+C0717,30,3,1130000.0,Mendoza,Semi Senior,Universitaria,2026-04-16,78,No,LinkedIn
+C0718,37,4,1170000.0,Salta,Semi Senior,Terciaria,2026-08-04,77,Sí,Universidad
+C0719,25,3,$1.000.000,Córdoba,Semi Senior,Terciaria,05/05/2026,73,Sí,Portal empleo
+C0720,26,5,1590000.0,Rosario,Senior,Bootcamp,2026-02-04,71,Sí,Universidad
+C0721,33,5,1810000.0,Salta,Senior,Autodidacta,2026-04-29,100,Sí,LinkedIn
+C0722,32,5,1570000.0,Córdoba,Senior,Universitaria,2026-01-14,89,Sí,Bootcamp
+C0723,34,6,1760000.0,Córdoba,Senior,Universitaria,2026-01-14,82,No,LinkedIn
+C0724,36,8,2160000.0,Rosario,Lead,Bootcamp,2026-01-10,74,Sí,LinkedIn
+C0725,34,8,2270000.0,Buenos Aires,Lead,Universitaria,2026-05-20,120,Sí,Bootcamp
+C0726,33,0,750000.0,Mendoza,Junior,Terciaria,2026-02-07,79,Sí,LinkedIn
+C0727,21,0,860000.0,Córdoba,Junior,Terciaria,2026-04-18,72,Sí,Portal empleo
+C0728,31,7,$1.160.000,Mendoza,Senior,Terciaria,2026-04-29,68,Sí,LinkedIn
+C0729,27,0,830000.0,cba,Junior,Autodidacta,2026-02-03,71,Sí,Portal empleo
+C0730,24,4,$1.000.000,Córdoba,Semi Senior,Autodidacta,2026-06-18,35,Sí,Bootcamp
+C0731,27,1,950000.0,Córdoba,Junior,Bootcamp,2026-01-10,75,Sí,LinkedIn
+C0732,34,0,920000.0,Mendoza,junior,Universitaria,2026-05-02,65,No,Portal empleo
+C0733,33,6,1730000.0,rosario,Senior,Bootcamp,25-05-2026,94,No,LinkedIn
+C0734,35,7,1900000,Buenos Aires,Senior,Universitaria,2026-05-25,72,Sí,Portal empleo
+C0735,25,3,1090000.0,Buenos Aires,Semi Senior,Universitaria,2026-07-14,55,Sí,LinkedIn
+C0736,25,0,1000000.0,Mendoza,Jr,Bootcamp,2026-07-09,71,Sí,LinkedIn
+C0737,28,3,,Buenos Aires,Semi Senior,Universitaria,2026-08-11,57,No,LinkedIn
+C0738,32,6,1610000.0,Mendoza,senior,Universitaria,2026-04-25,79,Sí,LinkedIn
+C0739,32,0,950000.0,Buenos Aires, Junior ,Universitaria,2026-01-01,76,Sí,Bootcamp
+C0740,34,5,1470000,Buenos Aires,Senior,Bootcamp,2026-01-12,85,No,Referido
+C0741,27,4,1100000.0,Buenos Aires,Semi Senior,Terciaria,2026/04/13,61,Sí,LinkedIn
+C0742,34,6,1550000.0,Córdoba,Senior,Terciaria,2026-01-04,72,Sí,Referido
+C0743,34,5,1560000.0,Rosario,Senior,Universitaria,2026-06-19,53,Sí,LinkedIn
+C0744,33,1,760000.0,Buenos Aires,Junior,Bootcamp,2026-05-21,82,No,Portal empleo
+C0745,41,8,2470000.0,Córdoba,Lead,Bootcamp,2026-04-08,79,No,Bootcamp
+C0746,27,4,1170000.0,Mendoza,Semi Senior,Universitaria,2026-04-16,79,No,Referido
+C0747,28,4,1240000.0,Buenos Aires,Semi Senior,Universitaria,2026-03-26,72,Sí,Universidad
+C0748,24,2,1130000.0,BUENOS AIRES,Semi Senior,Universitaria,2026-08-02,78,Sí,Portal empleo
+C0749,29,3,980000.0,Mendoza,Semi Senior,Autodidacta,2026-05-01,94,No,LinkedIn
+C0750,31,2,$1.230.000,Buenos Aires,Semi Senior,Terciaria,2026-05-12,68,No,Portal empleo
+C0751,35,4,970000.0,Córdoba,Semi Senior,Autodidacta,2026-03-23,74,Sí,Referido
+C0752,37,10,$ 2.180.000,Salta,Lead,Universitaria,2026-07-16,57,No,Portal empleo
+C0753,26,0,730000.0,Buenos Aires,Junior,Bootcamp,2026-01-19,-5,Sí,Universidad
+C0754,28,0,1020000.0,Córdoba,Junior,Bootcamp,2026-05-10,73,Sí,Referido
+C0755,33,9,2400000.0,Córdoba,Lead,Bootcamp,2026-01-12,87,Sí,Bootcamp
+C0756,39,4,1210000.0,Mendoza,Semi Senior,Autodidacta,2026-03-22,68,Sí,Universidad
+C0757,23,2,1350000.0,Buenos Aires,semisenior,Universitaria,2026-03-15,69,No,Referido
+C0758,36,8,2010000.0,Buenos Aires,Lead,Universitaria,2026-04-08,66,Sí,Portal empleo
+C0759,38,3,1.270.000,Mendoza,Semi Senior,Terciaria,2026-01-06,65,Sí,LinkedIn
+C0760,37,10,2.240.000,Rosario,Lead,Bootcamp,2026-05-16,76,No,Bootcamp
+C0761,33,7,1690000.0,Córdoba,Senior,Terciaria,2026-05-05,51,No,Portal empleo
+C0762,29,3,1350000.0,Córdoba,Semi Senior,Universitaria,2026-02-20,90,Sí,LinkedIn
+C0763,37,11,2360000.0,Córdoba,Lead,Terciaria,2026-01-11,63,Sí,LinkedIn
+C0764,35,3,$ 1.230.000,Rosario,Semi Senior,Universitaria,,82,Sí,Portal empleo
+C0765,25,7,1380000.0,Córdoba,Senior,Universitaria,2026-07-04,54,Sí,LinkedIn
+C0766,38,5,1490000.0,Buenos Aires,Senior,Terciaria,2026-05-07,81,No,LinkedIn
+C0767,30,9,2170000.0,Rosario,Lead,Bootcamp,2026-05-20,81,No,Referido
+C0768,35,,2220000.0,Mendoza,Lead,Universitaria,2026-03-14,77,Sí,LinkedIn
+C0769,30,5,1460000.0,Buenos Aires,Senior,Universitaria,2026-01-02,58,Sí,Referido
+C0770,31,2,1490000.0,Mendoza,Semi Senior,Universitaria,2026-01-08,75,Sí,LinkedIn
+C0771,27,6,1900000.0,Córdoba,senior,Universitaria,2026-05-19,55,No,LinkedIn
+C0772,31,2,1270000.0,Mendoza,Semi Senior,Bootcamp,2026-05-04,68,Sí,Portal empleo
+C0773,,11,2220000.0,Córdoba,Lead,Autodidacta,2026-02-22,86,Sí,Referido
+C0774,27,5,1610000.0,Buenos Aires,Senior,Universitaria,2026-01-10,83,Sí,LinkedIn
+C0775,31,3,1090000.0,Mendoza,Semi Senior,Bootcamp,2026-08-01,72,Sí,LinkedIn
+C0776,29,5,1660000.0,Córdoba,Senior,Bootcamp,2026-07-31,58,Sí,Portal empleo
+C0777,29,0,870000.0,Córdoba,Junior,Bootcamp,2026-04-22,81,Sí,LinkedIn
+C0778,28,1,740000.0,Rosario,Junior,Universitaria,2026-01-08,72,No,LinkedIn
+C0779,32,8,2270000.0,Rosario,Lead,Autodidacta,2026-02-05,40,No,LinkedIn
+C0780,31,2,1180000.0, Rosario ,Semi Senior,Universitaria,2026-08-09,83,No,Universidad
+C0781,35,1,690000.0,Rosario,Junior,Universitaria,2026-04-16,72,Sí,Universidad
+C0782,32,6,1510000.0,Buenos Aires,Senior,Universitaria,2026-07-23,89,Sí,Universidad
+C0783,38,8,2110000, Córdoba ,Lead,Terciaria,2026-01-14,57,Sí,Portal empleo
+C0784,29,7,1960000.0,Buenos Aires,Senior,Universitaria,2026-07-01,35,Sí,Portal empleo
+C0785,31,8,2320000.0,Córdoba,Lead,Universitaria,2026-08-01,76,No,Referido
+C0786,31,2,1040000.0,Mendoza,Semi Senior,Universitaria,2026-03-27,76,Sí,Portal empleo
+C0787,33,0,890000.0,,Junior,Bootcamp,2026-05-29,48,Sí,LinkedIn
+C0788,37,9,$ 1.860.000,Buenos Aires,,Bootcamp,2026-02-19,58,No,Portal empleo
+C0789,999,3,1330000.0,Buenos Aires,Semi Senior,Universitaria,10-08-2026,100,No,Universidad
+C0790,31,4,1140000.0,salta,Semi Senior,Bootcamp,2026-06-16,68,Sí,Referido
+C0791,31,9,2180000,Córdoba,Lead,Bootcamp,2026-01-20,82,Sí,Referido
+C0792,35,6,1870000.0,Buenos Aires,Senior,Bootcamp,04-08-2026,63,Sí,LinkedIn
+C0793,37,6,1440000,,Senior,Universitaria,2026-03-28,43,Sí,Portal empleo
+C0794,36,11,1890000.0,Buenos Aires,Lead,Bootcamp,2026-05-15,70,Sí,Portal empleo
+C0795,27,2,1130000.0,Córdoba,Semi Senior,Autodidacta,2026-05-17,68,Sí,Universidad
+C0796,35,7,1820000.0,Mendoza,Senior,Bootcamp,09-05-2026,66,No,LinkedIn
+C0797,30,5,1400000.0,Salta,Senior,Universitaria,2026-06-03,70,Sí,Universidad
+C0798,32,5,1180000.0,Buenos Aires,Senior,Terciaria,2026-06-15,76,Sí,Portal empleo
+C0799,44,9,2100000.0,Rosario,Lead,Terciaria,2026-02-07,70,Sí,Universidad
+C0800,32,6,$ 1.740.000,Salta,Senior,Terciaria,2026-07-08,54,Sí,Referido
+C0062,27,1,790000.0,Córdoba, Junior ,Terciaria,17/02/2026,78,Sí,Referido
+C0800,32,6,$ 1.740.000,Salta,Senior,Terciaria,2026-07-08,54,Sí,Referido
+C0748,24,2,1130000.0,BUENOS AIRES,Semi Senior,Universitaria,2026-08-02,78,Sí,Portal empleo
+C0669,26,1,820000.0,Córdoba,Junior,Universitaria,2026-07-24,82,Sí,Portal empleo
+C0727,21,0,860000.0,Córdoba,Junior,Terciaria,2026-04-18,72,Sí,Portal empleo
+C0111,33,5,1600000.0,Córdoba,Senior,Bootcamp,2026-05-01,68,Sí,Universidad
+C0390,34,3,1350000.0,Mendoza,Semi Senior,Universitaria,,66,Sí,LinkedIn
+C0465,33,6,1710000.0,Salta,Senior,Universitaria,2026-05-07,89,Sí,Portal empleo
