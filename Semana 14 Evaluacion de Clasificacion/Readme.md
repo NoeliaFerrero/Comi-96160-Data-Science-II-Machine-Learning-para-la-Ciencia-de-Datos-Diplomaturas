@@ -3,6 +3,8 @@
 * **Exactitud:** ¿Qué tan cerca estoy del valor real?
 * **Precisión:** ¿Qué tan agrupadas o consistentes son mis mediciones?
 
+![Exactitud vs Precisión](./exactitud-vs-precision.png)
+
 ---
 
 ## Ejemplo: «Me quiero pesar para bajar de peso»
