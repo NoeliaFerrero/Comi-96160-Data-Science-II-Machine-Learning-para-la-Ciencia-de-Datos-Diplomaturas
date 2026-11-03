@@ -30,7 +30,7 @@ y aun así no decir absolutamente nada.
 
 Una excelente demostración de cómo los datos pueden convertirse en una historia.
 
-📺 **Video:** [200 países, 200 años — Andoni Arregui](https://youtu.be/-C-hXn2RY3M?si=3DcMiJgUySPHd4jE)
+📺 **Video:** [200 países, 200 años - Andoni Arregui](https://youtu.be/-C-hXn2RY3M?si=3DcMiJgUySPHd4jE)
 
 La clave no está solamente en los datos utilizados, sino en **cómo se construye el relato alrededor de ellos**.
 
